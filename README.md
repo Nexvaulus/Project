@@ -14,12 +14,12 @@ Tenggat: 18 Okt 23.59
 > Masukin ke ppt
 
 ## Informasi
-    ### Initialize var
+    variabel barang
         Emas = x
         Saham = y
         RekaDana = y
 
-    ### Initialize person
+    variabel orang
         (J) Jasmine -> Emas = 100
                        Saham = 100
                        RekaDana = 200
@@ -31,12 +31,12 @@ Tenggat: 18 Okt 23.59
                     Saham = 200
                     RekaDana = 100
 
-    ### var totalKeuntungan
+    variabel total keuntungan
         (J) Jasmine = 22
         (K) Kei = 27
         (L) Luna = 33
 
-    ### var keuntungan
+    variabel keuntungan
         x%
         y%
         z%
