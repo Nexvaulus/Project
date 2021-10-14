@@ -76,7 +76,7 @@ Tenggat: 18 Okt 23.59
             x = 4%
 
 ## Kesimpulan
-    ### Tes dulu
+    ### Jawaban dari soal
     - [x] Sistem persamaan linear yang berlaku pada wacana di atas.
         (J) 100x + 100y + 200z = 22
         (K) 150y + 300z = 27
@@ -101,3 +101,5 @@ Tenggat: 18 Okt 23.59
                     Saham = 200 . 9,33% --> 18,66
                     RekaDana = 100 . 4,33% --> 4,33
                     [x] ---->> 32,99
+
+<!-- Cek semua -->
