@@ -41,7 +41,7 @@ Tenggat: 18 Okt 23.59
         y%
         z%
     
-    |Nominal dibagi 100|
+    |Nominal dibagi 1000|
 
 ## Implementasi
     ### Persamaan Linear:
