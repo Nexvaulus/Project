@@ -14,12 +14,12 @@ Tenggat: 18 Okt 23.59
 > Masukin ke ppt
 
 ## Informasi
-    variabel barang
+    inisialisasi variabel barang
         Emas = x
         Saham = y
         RekaDana = y
 
-    variabel orang
+    inisialisasi variabel orang
         (J) Jasmine -> Emas = 100
                        Saham = 100
                        RekaDana = 200
@@ -31,12 +31,12 @@ Tenggat: 18 Okt 23.59
                     Saham = 200
                     RekaDana = 100
 
-    variabel total keuntungan
+    inisialisasi variabel total keuntungan
         (J) Jasmine = 22
         (K) Kei = 27
         (L) Luna = 33
 
-    variabel keuntungan
+    inisialisasi variabel keuntungan
         x%
         y%
         z%
@@ -104,5 +104,4 @@ Tenggat: 18 Okt 23.59
                     [✔️] ---->> 32,99
 
 
-#AKHIRNYA, REPO INI TAMAT
 <!-- Cek semua -->
