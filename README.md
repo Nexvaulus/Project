@@ -2,7 +2,7 @@
 
 Investasi adalah kegiatan menempatkan modal baik berupa uang atau aset berharga ke dalam suatu benda, lembaga, atau suatu pihak dengan harapan pemodal akan mendapatkan keuntungan setelah kurun waktu tertentu. Ada beberapa macam instrumen investasi yang populer di Indonesia antara lain adalah emas, reksa dana dan saham.
 
-Selama 1 tahun Jasmine, Kei, dan Luna menginvestasikan modal yang mereka miliki. Jasmine menginvestasikan sebesar Rp 100.000,00 masing-masing pada emas dan saham serta Rp 200.000,00 pada reksa dana. Kei menginvestasikan Rp 150.000,00 pada saham dan Rp 300.000,00 pada reksa dana. Luna menginvestasikan Rp 200.000,00 pada emas, Rp 100.000,00 pada saham dan Rp 250.000,00 pada reksadana. 
+Selama 1 tahun Jasmine, Kei, dan Luna menginvestasikan modal yang mereka miliki. Jasmine menginvestasikan sebesar Rp 100.000,00 masing-masing pada emas dan saham serta Rp 200.000,00 pada reksa dana. Kei menginvestasikan Rp 150.000,00 pada saham dan Rp 300.000,00 pada reksa dana. Luna menginvestasikan Rp 200.000,00 pada emas, Rp 250.000,00 pada saham dan Rp 100.000,00 pada reksadana. 
 
 Pada akhir tahun mereka mendapatkan keuntungan yang berbeda. Jasmine mendapat keuntungan Rp 22.000,00 dari total investasinya. Kei mendapat keuntungan Rp 27.000,00 dari total investasinya. Luna mendapat keuntungan Rp 33.000,00 dari total investasinya. Apabila keuntungan per tahun dari investasi pada emas adalah x%, keuntungan per tahun dari investasi pada saham adalah y%, dan keuntungan per tahun dari investasi pada reksa dana adalah z%, tentukan : 
 
@@ -28,8 +28,8 @@ Tenggat: 18 Okt 23.59
                    ReksaDana = 300
 
         (L) Luna -> Emas = 200
-                    Saham = 100
-                    ReksaDana = 250
+                    Saham = 250
+                    ReksaDana = 100
 
     inisialisasi variabel total keuntungan
         (J) Jasmine = 22
@@ -47,18 +47,18 @@ Tenggat: 18 Okt 23.59
     ### Persamaan Linear:
         (J) 100x + 100y + 200z = 22 -- > [persamaan ke-1]
         (K) 150y + 300z = 27 --------- > [persamaan ke-2]
-        (L) 200x + 100y + 250z = 33 -- > [persamaan ke 3]
+        (L) 200x + 250y + 100z = 33 -- > [persamaan ke 3]
 
         |(J) . 2| 200x + 200y + 400z = 44
-        |(L) . 1| 200x + 100y + 250z = 33
+        |(L) . 1| 200x + 250y + 100z = 33
         ----------------------------------[eliminasi (-)]
-        --> 100y + 150z = 11 --------- > [persamaan ke 4]
+        --> -50y + 300z = 11 --------- > [persamaan ke 4]
 
         Subtitusi
-        100y + 150z = 11 |* 3| --> 300y + 450z = 33
+        -50y + 300z = 11 |* 1| --> -50y + 300z = 11
         150y + 300z = 27 |* 2| --> 300y + 600z = 54
         ----------------------------------[eliminasi (-)]
-        --> -150z = -21
+        --> -350z = -43
               z   = 7/50
 
         ============ What if ============
