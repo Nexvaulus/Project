@@ -2,7 +2,7 @@
 
 Investasi adalah kegiatan menempatkan modal baik berupa uang atau aset berharga ke dalam suatu benda, lembaga, atau suatu pihak dengan harapan pemodal akan mendapatkan keuntungan setelah kurun waktu tertentu. Ada beberapa macam instrumen investasi yang populer di Indonesia antara lain adalah emas, reksa dana dan saham.
 
-Selama 1 tahun Jasmine, Kei, dan Luna menginvestasikan modal yang mereka miliki. Jasmine menginvestasikan sebesar Rp 100.000,00 masing-masing pada emas dan saham serta Rp 200.000,00 pada reksa dana. Kei menginvestasikan Rp 150.000,00 pada saham dan Rp 300.000,00 pada reksa dana. Luna menginvestasikan Rp 200.000,00 pada emas, Rp 250.000,00 pada saham dan Rp 100.000,00 pada reksadana. 
+Selama 1 tahun Jasmine, Kei, dan Luna menginvestasikan modal yang mereka miliki. Jasmine menginvestasikan sebesar Rp 100.000,00 masing-masing pada emas dan saham serta Rp 200.000,00 pada reksa dana. Kei menginvestasikan Rp 150.000,00 pada saham dan Rp 300.000,00 pada reksa dana. Luna menginvestasikan Rp 200.000,00 pada saham, Rp 250.000,00 dan Rp 100.000,00 pada reksadana. 
 
 Pada akhir tahun mereka mendapatkan keuntungan yang berbeda. Jasmine mendapat keuntungan Rp 22.000,00 dari total investasinya. Kei mendapat keuntungan Rp 27.000,00 dari total investasinya. Luna mendapat keuntungan Rp 33.000,00 dari total investasinya. Apabila keuntungan per tahun dari investasi pada emas adalah x%, keuntungan per tahun dari investasi pada saham adalah y%, dan keuntungan per tahun dari investasi pada reksa dana adalah z%, tentukan : 
 
@@ -14,63 +14,40 @@ Tenggat: 18 Okt 23.59
 > Masukin ke ppt
 
 ## Informasi
-    inisialisasi variabel barang
+    variabel barang
         Emas = x
         Saham = y
-        ReksaDana = y
+        RekaDana = y
 
-    inisialisasi variabel orang
+    variabel orang
         (J) Jasmine -> Emas = 100
                        Saham = 100
-                       ReksaDana = 200
+                       RekaDana = 200
 
         (K) Kei -> Saham = 150
-                   ReksaDana = 300
+                   RekaDana = 300
 
-        (L) Luna -> Emas = 200
-                    Saham = 250
-                    ReksaDana = 100
+        (L) Luna -> Emas = 250
+                    Saham = 200
+                    RekaDana = 100
 
-    inisialisasi variabel total keuntungan
+    variabel total keuntungan
         (J) Jasmine = 22
         (K) Kei = 27
         (L) Luna = 33
 
-    inisialisasi variabel keuntungan
+    variabel keuntungan
         x%
         y%
         z%
     
-    |Nominal dibagi 1000|
+    |Nominal dibagi 100|
 
 ## Implementasi
     ### Persamaan Linear:
         (J) 100x + 100y + 200z = 22 -- > [persamaan ke-1]
         (K) 150y + 300z = 27 --------- > [persamaan ke-2]
-        (L) 200x + 250y + 100z = 33 -- > [persamaan ke 3]
-
-        |(J) . 2| 200x + 200y + 400z = 44
-        |(L) . 1| 200x + 250y + 100z = 33
-        ----------------------------------[eliminasi (-)]
-        --> -50y + 300z = 11 --------- > [persamaan ke 4]
-
-        subtitusi 
-        -50y + 300z = 11 |* 1| --> -50y + 300z = 11
-        150y + 300z = 27 |* 2| --> 300y + 600z = 54
-        ----------------------------------[eliminasi (-)]
-        --> -350z = -43
-              z   = 8 6/43
-              z   = 8,139
-
-        subtitusi persamaan 4
-        -50y + 300z = 11
-        -50y + 300(8,139) = 11
-        -50y = -2430,7
-          y  = 48,614
-
-        subtitusi persamaan 1
-        100x + 100y + 200z = 22
-        100x + 100(48,614) + 200(8,139)
+        (L) 250x + 200y + 100z = 33 -- > [persamaan ke 3]
 
         |(J) . 5| 500x + 500y + 1000z = 110
         |(L) . 2| 500x + 400y + 200z  = 66
@@ -97,8 +74,7 @@ Tenggat: 18 Okt 23.59
             100x + 18 = 22
             100x = 4
             x = 0,04
-            x = 4% 
-
+            x = 4%
 
 ## Kesimpulan
     ### Jawaban dari soal
@@ -110,21 +86,21 @@ Tenggat: 18 Okt 23.59
     -[✔️] Keuntungan investasi pada emas, saham, dan reksa dana.
         * Keuntungan dari emas 4%
         * Keuntungan dari saham 9,33%
-        * Keuntungan dari Reksadana 4,33%
+        * Keuntungan dari Rekadana 4,33%
 
     ### Cek
         (J) Jasmine -> Emas = 100 . 4% --> 4
                        Saham = 100 . 9,33% --> 9,33
-                       ReksaDana = 200 . 4,33% --> 8,66
+                       RekaDana = 200 . 4,33% --> 8,66
                        [✔️] ---->> 21,99
 
         (K) Kei -> Saham = 150 . 9,33% --> 13,995
-                   ReksaDana = 300 . 4,33% --> 12,99
+                   RekaDana = 300 . 4,33% --> 12,99
                    [✔️] ---->> 26,98
 
         (L) Luna -> Emas = 250 . 4% --> 10
                     Saham = 200 . 9,33% --> 18,66
-                    ReksaDana = 100 . 4,33% --> 4,33
+                    RekaDana = 100 . 4,33% --> 4,33
                     [✔️] ---->> 32,99
 
 <!-- Cek semua -->
