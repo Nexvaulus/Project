@@ -85,12 +85,12 @@ Tenggat: 18 Okt 23.59
 
 ## Kesimpulan
     ### Jawaban dari soal
-    - [x] Sistem persamaan linear yang berlaku pada wacana di atas.
+    - [✔️] Sistem persamaan linear yang berlaku pada wacana di atas.
         (J) 100x + 100y + 200z = 22
         (K) 150y + 300z = 27
         (L) 200x + 250y + 100z = 33
 
-    - [x] Keuntungan investasi pada emas, saham, dan reksa dana.
+    - [✔️] Keuntungan investasi pada emas, saham, dan reksa dana.
         * Keuntungan dari emas 4%
         * Keuntungan dari saham 8%
         * Keuntungan dari Reksadana 5%
