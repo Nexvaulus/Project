@@ -17,19 +17,19 @@ Tenggat: 18 Okt 23.59
     variabel barang
         Emas = x
         Saham = y
-        RekaDana = y
+        ReksaDana = y
 
     variabel orang
         (J) Jasmine -> Emas = 100
                        Saham = 100
-                       RekaDana = 200
+                       ReksaDana = 200
 
         (K) Kei -> Saham = 150
-                   RekaDana = 300
+                   ReksaDana = 300
 
-        (L) Luna -> Emas = 250
-                    Saham = 200
-                    RekaDana = 100
+        (L) Luna -> Emas = 200
+                    Saham = 250
+                    ReksaDana = 100
 
     variabel total keuntungan
         (J) Jasmine = 22
@@ -47,34 +47,35 @@ Tenggat: 18 Okt 23.59
     ### Persamaan Linear:
         (J) 100x + 100y + 200z = 22 -- > [persamaan ke-1]
         (K) 150y + 300z = 27 --------- > [persamaan ke-2]
-        (L) 250x + 200y + 100z = 33 -- > [persamaan ke 3]
+        (L) 200x + 250y + 100z = 33 -- > [persamaan ke 3]
 
-        |(J) . 5| 500x + 500y + 1000z = 110
-        |(L) . 2| 500x + 400y + 200z  = 66
+        |(J) . 2| 200x + 200y + 400z = 44
+        |(L) . 1| 200x + 250y + 100z = 33
         ----------------------------------[eliminasi (-)]
-        --> 100y + 800z = 44 --------- > [persamaan ke 4]
+        --> -50y + 300z = 11 --------- > [persamaan ke 4]
 
-        |(J) . 3| 300y + 2400z = 132
-        |(K) . 2| 300y + 600z  = 54 
+        subtitusi
+        -50y + 300z = 11 
+        150y + 300z = 27
         ----------------------------------[eliminasi (-)]
-        --> 1800z = 78
-            z     = 0,0433
-            z     = 4,33%
+        --> -100y = -16 
+               y  = 0,16
+               y  = 16%
 
-        (K) 150y + 300z = 27
-            150y + 300(0,0433) = 27
-            150y + 13 = 27
-            150y = 14
-            y = 0,0933
-            y = 9,33%
+        subtitusi 
+        -50y + 300z = 11
+        -50(0,16) + 300z = 11
+        -8 + 300z = 11
+        300z = 19
+          z  = 0,063
+          z  = 6,3%
 
-        (J) 100x + 100y + 200z = 22
-            100x + 100(0,0933) + 200(0,0433) = 22
-            100x + 9,33 + 8,66 = 22
-            100x + 18 = 22
-            100x = 4
-            x = 0,04
-            x = 4%
+        subtitusi 
+        100x + 100y + 200z = 22
+        100x + 100(0,16) + 200(0,063) = 22
+        100x + 16 + 12,6 = 22
+        100x + 28,6 = 22
+        100x = -6,6
 
 ## Kesimpulan
     ### Jawaban dari soal
@@ -86,21 +87,21 @@ Tenggat: 18 Okt 23.59
     -[✔️] Keuntungan investasi pada emas, saham, dan reksa dana.
         * Keuntungan dari emas 4%
         * Keuntungan dari saham 9,33%
-        * Keuntungan dari Rekadana 4,33%
+        * Keuntungan dari Reksadana 4,33%
 
     ### Cek
         (J) Jasmine -> Emas = 100 . 4% --> 4
                        Saham = 100 . 9,33% --> 9,33
-                       RekaDana = 200 . 4,33% --> 8,66
+                       ReksaDana = 200 . 4,33% --> 8,66
                        [✔️] ---->> 21,99
 
         (K) Kei -> Saham = 150 . 9,33% --> 13,995
-                   RekaDana = 300 . 4,33% --> 12,99
+                   ReksaDana = 300 . 4,33% --> 12,99
                    [✔️] ---->> 26,98
 
         (L) Luna -> Emas = 250 . 4% --> 10
                     Saham = 200 . 9,33% --> 18,66
-                    RekaDana = 100 . 4,33% --> 4,33
+                    ReksaDana = 100 . 4,33% --> 4,33
                     [✔️] ---->> 32,99
 
 <!-- Cek semua -->
