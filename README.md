@@ -49,59 +49,64 @@ Tenggat: 18 Okt 23.59
         (K) 150y + 300z = 27 --------- > [persamaan ke-2]
         (L) 200x + 250y + 100z = 33 -- > [persamaan ke 3]
 
-        |(J) . 2| 200x + 200y + 400z = 44
-        |(L) . 1| 200x + 250y + 100z = 33
+        eliminasi [1]
+        |(J) * 5| 500x + 500y + 1000z = 110
+        |(L) * 2| 400x + 500y + 200z = 66
         ----------------------------------[eliminasi (-)]
-        --> -50y + 300z = 11 --------- > [persamaan ke 4]
+        --> 100x + 800z = 44 --------- > [persamaan ke-4]
 
-        subtitusi
-        -50y + 300z = 11 
-        150y + 300z = 27
+        eliminasi [2]
+        |(J) * 3| 300x + 300y + 600z = 66
+        |(K) * 2|        300y + 600z = 54
         ----------------------------------[eliminasi (-)]
-        --> -100y = -16 
-               y  = 0,16
-               y  = 16%
+        --> 300x = 12
+              x  = 1/25
+              x  = 0,04 
+              x  = 4%
 
-        subtitusi 
-        -50y + 300z = 11
-        -50(0,16) + 300z = 11
-        -8 + 300z = 11
-        300z = 19
-          z  = 0,063
-          z  = 6,3%
+        subtitusi [persamaan ke-4]
+        100x + 800z = 44
+        100(0,04) + 800z = 44
+        4 + 800z = 44
+        800z = 40
+          z  = 1/20 
+          z  = 0,05 
+          z  = 5%
 
-        subtitusi 
+        subtitusi [persamaan ke-1]  
         100x + 100y + 200z = 22
-        100x + 100(0,16) + 200(0,063) = 22
-        100x + 16 + 12,6 = 22
-        100x + 28,6 = 22
-        100x = -6,6
+        100(0,04) + 100y + 200(0,05) = 22
+            4     + 100y +    10     = 22
+                    100y = 8
+                      y  = 8/100
+                      y  = 0,08
+                      y  = 8%
 
 ## Kesimpulan
     ### Jawaban dari soal
     -[✔️] Sistem persamaan linear yang berlaku pada wacana di atas.
         (J) 100x + 100y + 200z = 22
         (K) 150y + 300z = 27
-        (L) 250x + 200y + 100z = 33
+        (L) 200x + 250y + 100z = 33
 
     -[✔️] Keuntungan investasi pada emas, saham, dan reksa dana.
         * Keuntungan dari emas 4%
-        * Keuntungan dari saham 9,33%
-        * Keuntungan dari Reksadana 4,33%
+        * Keuntungan dari saham 8%
+        * Keuntungan dari Reksadana 5%
 
     ### Cek
         (J) Jasmine -> Emas = 100 . 4% --> 4
-                       Saham = 100 . 9,33% --> 9,33
-                       ReksaDana = 200 . 4,33% --> 8,66
-                       [✔️] ---->> 21,99
+                       Saham = 100 . 8% --> 8
+                       ReksaDana = 200 . 5% --> 10
+                       [✔️] ---->> 22
 
-        (K) Kei -> Saham = 150 . 9,33% --> 13,995
-                   ReksaDana = 300 . 4,33% --> 12,99
-                   [✔️] ---->> 26,98
+        (K) Kei -> Saham = 150 . 8% --> 6
+                   ReksaDana = 300 . 5% --> 15
+                   [❌] ---->> 21
 
-        (L) Luna -> Emas = 250 . 4% --> 10
-                    Saham = 200 . 9,33% --> 18,66
-                    ReksaDana = 100 . 4,33% --> 4,33
-                    [✔️] ---->> 32,99
+        (L) Luna -> Emas = 200 . 4% --> 8
+                    Saham = 250 . 8% --> 10
+                    ReksaDana = 100 . 5% --> 5
+                    [❌] ---->> 23
 
 <!-- Cek semua -->
