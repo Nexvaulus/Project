@@ -22,6 +22,7 @@ Pelajari juga teknologi pembuatan pupuk kompos dari sampah organik agar yang dih
 Harus Kreatif, Dengan membuat souvenir atau juga membuat kerajinan tangan dengan menggunakan sampah.
 Buat jadwal untuk kegiatan  kerja bakti untuk membersihkan lingkungan sekitar.
 Perbanyak juga tempat sampah di sekitar lingkungan;
+
 BAB III
 PENUTUP
 
