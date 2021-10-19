@@ -1,8 +1,14 @@
-# Ini heading 1
-    Ini paragraf
+# Project
+    
 
-## Ini heading 2
- [Tes link](https://github.com/Nexvaulus/WPU-TEST-GIT)
+## Redaksi (Pembagian tugas)
+    * Pembina (Guru)
+    * Ketua/Pemimpin Redaksi
+    * Fotografer
+    * Reporter
+    * Editor
+    * Layouter/Tata letak
+
 
 ### Ini heading 3
  >test quote

@@ -1,13 +1,15 @@
 var angka;
-var prima = function(angka) {
-    for(i = 2; i <= angka; i++) {
-        var tes;
-        tes = angka / i;
-        if(tes == 1) {
-            return console.log(angka + " adalah bilangan prima");
+const prima = (angka) => {
+    var bagi = 0;
+    for(var i = 0; i <= angka; i++) {
+        if(angka % i == 0) {
+            bagi++
         }
-        else { 
-            return console.log(angka + " bukan bilangan prima");
-        }
+    }
+    if(pembagi == 2) {
+        console.log(angka + " adalah bilangan prima");
+    }
+    else {
+        console.log(angka + " bukan bilangan prima")
     }
 }
