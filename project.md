@@ -24,12 +24,9 @@
 
 ### Artikel
 
+
 ### Biografi
-    Sosok Manohara Odelia Pinot juga dikenal sebagai aktivis yang peduli dengan lingkungan. Bahkan, Manohara sempat mencoba terjun dunia politik pada Pemilu 2019 agar dapat membenahi persoalan lingkungan. Menurutnya, banyak regulasi dan undang-undang yang masih belum memihak pada isu lingkungan.
-
-    Kendati demikian, rupanya jumlah suara Manohara tidak cukup untuk membawanya lolos sebagai anggota DPR. Meski cita-citanya tak terwujud, ia tetap aktif sebagai aktivis lingkungan dan peduli hewan langka. 
-
-    Ia pun turut terlibat dalam aksi membersihkan pantai di wilayah Kepulauan Seribu, Jakata. Pada kegiatan tersebut Manohara banyak menemukan produk-produk plastik sekali pakai yang dibuang sembarangan oleh beberapa orang.
+    Manohara Odelia Pinot Lahir dari keluarga berkebangsaan amerika dan keturunan kebangsaan bugis pada tanggal 28 Febuari 1992. Manohara memulai karirnya sebagai model dan aktris, diusia mudanya dia berhasil mendapat penghargaan 100 pesona Indonesia. Setelah tidak aktif didunia hiburan Manohara terkenal sebagai aktivis peduli lingkungan.Manohara Odelia Pinot mulai aktif sebagai aktivis peduli lingkungan, bahkan Manohara pernah mengikuti pemilu agar dapat membenahi persoalan lingkungan. Meski Manohara belum berhasil menjadi anggota DPR dia tetap aktif sebagai Aktivis peduli lingkungan. Manohara sering mengikuti acara atau projek  peduli lingkungan. Salah satu aksi yang dia ikuti ialah aksi membersihkan pantai di wiliyah Kepulauan Seribu, Jakarta. Pada kegiatan tersebut Manohara banyak menemukan produk-produk plastik sekali pakai yang dibuang sembarangan oleh beberapa orang.
 
 ### Cerpen
 
