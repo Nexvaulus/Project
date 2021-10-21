@@ -3,28 +3,35 @@
     Tema : Menjaga lingkungan sekitar
     Artikel, cerpen, biografi, komik, puisi, opini, tips & trick
 
+
 ## Redaksi (Pembagian tugas)
-    * Pembina (Guru)
-    * Ketua/Pemimpin Redaksi - Fikri
-    * Fotografer - Anindita & Andra
-    * Reporter - Rafa & Favian
-    * Editor - Faris & Faiz
-    * Layouter/Tata letak - Sammy 
+    * Pembina => Meta Saputra
+    * Ketua/Pemimpin Redaksi => Fikri
+    * Fotografer => Anindita & Andra
+    * Reporter => Rafa & Favian
+    * Editor => Faris & Faiz
+    * Layouter/Tata letak => Sammy 
 
 
 ## Isi
-    * Artikel (Reporter) => 
-    * Biografi (Reporter) => Manohara Odelia Pinot
-    * cerpen  => (Fikri)
-    * Teka teki (Azka) => 
-    * Komik (Faiz) =>
-    * Puisi ()
-    * Opini (Reporter)
+    * Artikel (Reporter) 
+    * Biografi (Reporter) 
+    * cerpen (Fikri) 
+    * Teka teki (Azka) 
+    * Komik (Faiz) 
+    * Puisi (Sammy) 
+    * Opini (Reporter) 
     * Tips & trick (Sammy & Faris)
 
 
 ### Artikel
+Konsep keberlanjutan atau sustainability saat ini sedang banyak diterapkan oleh masyarakat sebagai upaya untuk membuat Bumi menjadi lebih baik dan mencegah terjadinya krisis lingkungan. Salah satunya adalah Gaya hidup berkelanjutan yang berarti melakukan aktivitas dengan menjaga kelestarian seperti  mengurangi penggunaan plastik, meminimalisir sisa makanan, dan membiasakan hidup bersih.
 
+Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini. Bumi memiliki sumber daya alam yang dapat diperbarui dan ada pula yang tidak dapat diperbarui. Menurut Program Lingkungan PBB, jika populasi global mencapai 9,6 miliar pada tahun 2050, kita membutuhkan setara dengan hampir tiga planet untuk menyediakan sumber daya alam yang dibutuhkan untuk mempertahankan gaya hidup saat ini.
+
+Berdasarkan UN Decade on Ecosystem Restoration, setidaknya ada tiga gaya hidup yang perlu dilakukan untuk membantu memulikan ekosistem bumi, yaitu sustainable shopping, sustainable home dan sustainable commuting. Dalam hal ini, menurut Denia Isetianti selaku pendiri Cleanomic, mengingatkan bahwa Indonesia menghasilkan 178 juta ton sampah setiap tahunnya. Sebanyak 60 persen sampah yang tertumpuk di tempat pembuangan akhir adalah sampah organic dan memiliki resiko seperti menyebabkan gas rumah kaca sedangkan Sampah anorganik, seperti plastik, sebenarnya memiliki potensi untuk didaur ulang. Namun, jika bercampur dengan sampah organik, sampah anorganik berisiko tidak dapat didaur ulang.
+
+Penting untuk diketahui bahwa gaya hidup berkelanjutan merupakan upaya penting yang dilakukan untuk membantu menjadikan ekosistem kita lebih baik bagi generasi selanjutnya. Beberapa manfaat yang kita dapat dari gaya hidup berkelanjutan adalah Berkurangnya Sampah Plastik, Turunnya Polusi Udara, dan Keadaan Lingkungan Menjadi Lebih Bersih dan Nyaman.
 
 
 ### Biografi
@@ -55,7 +62,6 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 
 ### Teka teki
 Gambar Teka teki ada [disini](img/tts-kosong.jpeg) dan kunci jawabannya [disini](img/tts-kunci-jawaban.jpeg)
-
 
 Mendatar :
 
@@ -125,4 +131,5 @@ itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur
 
 
 ### Opini
+Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karna bumi memiliki sumber daya alam yg bisa diperbarui dan ada juga yang tidak dapat di perbarui, maka dari itu penting sekali kita untuk menjaga bumi kita ini, salah satunya dengan cara menerapkan gaya hidup berkelanjutan. Yang paling mudah bisa dilakukan dengan membuang sampah pada tempatnya.
 
