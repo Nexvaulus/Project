@@ -69,7 +69,6 @@ Mendatar :
 
 20. Sumber Energi dari PLTB ; Kepanjagan “B” dari PLTB ; Angin
 
-<<<<<<< HEAD
 Menurun : 
 2. Sumber Energi dari PLTS ; Kepanjagan “S” dari PLTS ; Matahari
 
@@ -79,36 +78,19 @@ Menurun :
 
 5. Ekosfer ; Seluruh ekosistem di seluruh penjuru Bumi ; Anggota luar dari planet Bumi mencakup udara, daratan, dan cairan, yang memungkinkan kehidupan berlangsung
 
-=======
-Menurun :
-2. Sumber Energi dari PLTS ; Kepanjangan "S" dari PLTS ; Matahari
-3. Bahan utama dari kresek / sedotan, yang sangat sulit untuk terurai
-4. Sesuatu yang tertinggal sebagai sisa ; used ; second-hand
-5. Ekosfer ; Seluruh ekosistem di seluruh penjuru bumi ; Anggota luar dari planet bumi mencakup udara, daratan, dan cairan, yang memungkinkan kehidupan berlangsung
->>>>>>> 60623476990558db266dfc4b339f82f2eb967577
 6. Energi yang berasal dari proses alam yang berkelanjutan (surya, angin, arus air, biologi, dan panas bumi)
 
 7. Banjir yang diakibatkan oleh air laut yang menggenangi daratan yang lebih rendah
-<<<<<<< HEAD
 
 11. Sisa proses produksi ; Bahan yang tidak mempunyai nilai untuk maksud biasa
 
-=======
-11. Sisa produksi ; Bahan yang tidak mempunyai nilai untuk maksud biasa
->>>>>>> 60623476990558db266dfc4b339f82f2eb967577
 12. Jenis sampah yang memiliki kandungan air cukup tinggi
 
 15. Cabang dari ilmu fisik yang mempelajari tentang susunan, struktur, sifat, dan perubahan materi
-<<<<<<< HEAD
 
 16. Jenis barang dan jasa yang pada dasarnya berbeda dari yang telah dipasarkan sebelumnya ; new
 
 21. Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan-bahan organik
-=======
-16. Jenis barang dan jasa yang pada dasarnya berbeda dari yang telah dipasarkan sebelumya
-21. Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan bahan organik
->>>>>>> 60623476990558db266dfc4b339f82f2eb967577
-
 
 ### Komik
 ### Puisi
