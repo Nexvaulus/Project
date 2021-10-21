@@ -1,3 +1,12 @@
+#BAB I
+PENDAHULUAN
+
+##Latar Belakang
+Kita hidup bersama sama ditengah masyarakat yang saling membutuhkan. Banyak faktor faktor yang mempengaruhi keterikatan antar warga terutama kebersihan. Kebersihan menjadi patok utama dalam keterikatan masyarakat. Melalui proyek ini kami akan merepresentasikan bagaimana kehidupan bermasyarakat yang bersih dan tentram.
+
+
+
+
 C. Tujuan Penelitian
 
 Ialah Supaya lingkungan di sekitar dapat tetap terjaga kebersihannya.
@@ -9,21 +18,11 @@ dikarenakan tanpa adanya lingkungan yang bersih pada tiap individu atau pun masy
 
 tetapi segala sesuatu terdapat suatu perubahan hanya saja didalam segala persoalan dalam menjaga kebersihan lingkungan, semua itu tidak dapat dijalankan dengan tanpa sebuah kesadaran dari setiap individu ataupun masyarakat untuk menjaga kebersihan, Oleh karena itu Kebersihan tersebut akan berguna dan juga akan menimbulkan keuntungan jika tiap individu ataupun juga masyarakat dapat menjaga lingkungan di sekitarnya.
 
-B. Cara Menjaga Kebersihan Lingkungan
+#BAB II
+ISI
 
-Berikut ini  Tips dan juga cara menjaga kebersihan lingkungan:
 
-Dimulai keingininan dari diri sendiri dengan cara memberi contoh kepada masyarakat banyak bagaimana menjaga suatu kebersihan lingkungan.
-Libatkan tokoh masyarakat yang daoat berpengaruh untuk dapat memberikan arahan kepada masyarakat bahwa pentingnya menjaga suatu kebersihan lingkungan.
-Sertakan juga para pemuda untuk dapat ikut aktif menjaga kebersihan lingkungan disekitar.
-buat pekerjaan sebagai petugas kebersihan lingkungan dengan cara memberi imbalan  setiap bulannya.
-Sosialisasikan pada masyarakat untuk harus terbiasa memilih sampah rumah tangga kesampah organik dan non organik.
-Pelajari juga teknologi pembuatan pupuk kompos dari sampah organik agar yang dihasilkan dapat dimanfaatkan ;
-Harus Kreatif, Dengan membuat souvenir atau juga membuat kerajinan tangan dengan menggunakan sampah.
-Buat jadwal untuk kegiatan  kerja bakti untuk membersihkan lingkungan sekitar.
-Perbanyak juga tempat sampah di sekitar lingkungan;
-
-BAB III
+#BAB III
 PENUTUP
 
 A. Kesimpulan
