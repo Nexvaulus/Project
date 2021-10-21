@@ -14,14 +14,14 @@
 
 
 ## Isi
-    * Artikel (Reporter) 
-    * Biografi (Reporter) 
-    * cerpen (Fikri) 
-    * Teka teki (Azka) 
-    * Komik (Faiz) 
-    * Puisi (Sammy) 
-    * Opini (Reporter) 
-    * Tips & trick (Sammy & Faris)
+    * Artikel => [Reporter] 
+    * Biografi => [Reporter]
+    * cerpen => (Fikri) 
+    * Teka teki => (Azka) 
+    * Komik => (Faiz) 
+    * Puisi => (Sammy) 
+    * Opini => [Reporter]
+    * Tips & trick => [Sammy & Faris]
 
 
 ### Artikel
@@ -134,7 +134,7 @@ Menurun :
 
 
     itulah lingkunganku
-    
+
     itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur
 
 
