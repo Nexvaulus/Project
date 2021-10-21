@@ -2,8 +2,9 @@
 PENDAHULUAN
 
 ##Latar Belakang
-Kita hidup bersama sama ditengah masyarakat yang saling membutuhkan. Banyak faktor faktor yang mempengaruhi keterikatan antar warga terutama kebersihan. Kebersihan menjadi patok utama dalam keterikatan masyarakat. Melalui proyek ini kami akan merepresentasikan bagaimana kehidupan bermasyarakat yang bersih dan tentram.
+Kebersihan merupakan sebuah cerminan bagi setiap individu dalam menjaga kesehatan yang begitu penting dalam kehidupan sehari-hari. Kebersihan lingkungan merupakan suatu keadaan yang bebas dari segala kotorna dan penyakit, yang dapat merugikan segala aspek yang menyangkut setiap kegiatan dan perilaku lingkungan masyarakat, dimana kehidupan manusia tidak bisa dipisahkan baik lingkungan alam maupun lingkungan sosial.
 
+Menjaga kebersihan dan kesehatan lingkungan rumah sangatlah penting dilakukan. Lingkungan rumah yang bersih dan sehat tentunya dapat mencegah semua penghuni rumah sehingga dapat tertular suatu penyakit. Selain menjaga lingkungan rumah, setiap orang juga harus menjaga lingkungan kerja, lingkungan sekolah dan tempat umum.
 
 
 

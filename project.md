@@ -32,13 +32,13 @@ Manohara Odelia Pinot Lahir dari keluarga berkebangsaan amerika dan keturunan ke
 
 
 ### Cerpen
-Tomi, Yuda, dan Johan adalah tiga orang siswa SD Negeri Pamulang 4 yang telah berteman sejak mereka TK. Ketiga siswa tersebut sangat gemar membersihkan lingkungan sekolah. Tidak heran bila bapak / ibu guru menjadikan mereka sebagai tauladan bagi siswa yang lain. Suatu hari di bulan September, mereka sedang bermain - main di sungai selepas pulang sekolah. Mereka memang gemar mencari ikan untuk kemudian digoreng dan dijadikan lauk makan siang. Ukuran sungai yang tidak begitu besar membuat mereka mudah berjalan dari ujung ke ujung bagian sungai. Mereka menjumpai banyak sekali sampah di pinggir sungai. Mulai dari plastik, botol - botol, dll. Setelah kelelahan dan beristirahat di pinggir sungai, Tomi pun berkata kepada Yuda dan Johan tentang sampah yang banyak mereka jumpai di pinggir sungai. Mereka pun sepakat bahwa sampah yang menumpuk di sungai bisa mengakibatkan banjir saat musim hujan nanti.
+<!-- Tomi, Yuda, dan Johan adalah tiga orang siswa SD Negeri Pamulang 4 yang telah berteman sejak mereka TK. Ketiga siswa tersebut sangat gemar membersihkan lingkungan sekolah. Tidak heran bila bapak / ibu guru menjadikan mereka sebagai tauladan bagi siswa yang lain. Suatu hari di bulan September, mereka sedang bermain - main di sungai selepas pulang sekolah. Mereka memang gemar mencari ikan untuk kemudian digoreng dan dijadikan lauk makan siang. Ukuran sungai yang tidak begitu besar membuat mereka mudah berjalan dari ujung ke ujung bagian sungai. Mereka menjumpai banyak sekali sampah di pinggir sungai. Mulai dari plastik, botol - botol, dll. Setelah kelelahan dan beristirahat di pinggir sungai, Tomi pun berkata kepada Yuda dan Johan tentang sampah yang banyak mereka jumpai di pinggir sungai. Mereka pun sepakat bahwa sampah yang menumpuk di sungai bisa mengakibatkan banjir saat musim hujan nanti.
 
 Suatu pagi pada saat jam istirahat di sekolah, Tomi, Yuda, dan Johan pergi ke kantor guru. Mereka menemui Bapak Ahmad, Wali Kelas mereka. Yuda menceritakan tentang banyaknya sampah yang ada di sungai, cerita Yuda pun ditimpali dan dilengkapi oleh Tomi dan Johan. Mereka memberikan usul kepada Wali Kelas mereka untuk mengadakan acara bersih sungai pada saat acara bersih - bersih sekolah yang rutin dilakukan setiap hari Jum'at minggu ke-2 setiap bulannya. Usulan mereka pun ditanggapi dengan positif oleh Wali Kelas.
 
 Akhirnya tibalah hari dimana acara bersih - bersih sungai itu dilaksanakan. Pada pagi hari, Kepala Sekolah memberikan arahan kepada semua siswa tentang pentingnya sebuah sungai yang bersih. Kepala Sekolah juga meminta kepada semua siswa untuk membersihkan sungai dengan sungguh - sungguh dan tak lupa Kepala Sekolah menyampaikan hal - hal yang tidak boleh dilakukan selama acara bersih - bersih sungai berlangsung. Selesai acara pengarahan, dengan berbondong - bondong dan didampingi oleh Wali Kelas, para siswa menuju ke sungai yang lokasinya tidak jauh dari sekolahan. Sesampainya di tepi sungai, Wali Kelas membagi siswa kedalam beberapa kelompok dimana setiap kelompok terdiri dari 5 orang dan ada 1 orang siswa yang menjadi ketua serta koordinator kelompok.
 
-Acara bersih - bersih sungai  berlangsung selama 2 jam. Setelah acara bersih - bersih sungai selesai, tampak beberapa gundukan sampah yang berhasil dikumpulkan oleh para siswa. Sampah - sampah tersebut kemudian diangkut oleh truk milik Dinas Pekerjaan Umum yang memang sengaja didatangkan untuk mengangkut sampah sungai. Sungai pun kini tampak sangat bersih. Wali Kelas menjelaskan tentang arti pentingnya kebersihan sungai agar masyarakat di sekitar terbebas dari banjir saat musim hujan datang. Oleh karena itu, kita harus selalu emnjaga kebersihan lingkungan sekitar kita termasuk kebersihan sungai agar terhindar dari bahaya banjir.
+Acara bersih - bersih sungai  berlangsung selama 2 jam. Setelah acara bersih - bersih sungai selesai, tampak beberapa gundukan sampah yang berhasil dikumpulkan oleh para siswa. Sampah - sampah tersebut kemudian diangkut oleh truk milik Dinas Pekerjaan Umum yang memang sengaja didatangkan untuk mengangkut sampah sungai. Sungai pun kini tampak sangat bersih. Wali Kelas menjelaskan tentang arti pentingnya kebersihan sungai agar masyarakat di sekitar terbebas dari banjir saat musim hujan datang. Oleh karena itu, kita harus selalu emnjaga kebersihan lingkungan sekitar kita termasuk kebersihan sungai agar terhindar dari bahaya banjir. -->
 
 
 ### Tips Sehat
@@ -110,5 +110,19 @@ Menurun :
 
 ### Komik
 ### Puisi
+Lingkungan sehat kiri kanan pepohonan menjulang
+menyebarkan udara yang segar tak ada sampah kutemukan di sekitar panjang jalan
+
+Gunung tinggi diatas tanah Berkabut putih dan cerah Udara sejuk di pagi hari Sawah hijau nan luas
+
+Matahari yang hangat
+Menyinari lingkungan alam
+Sinar matahari meraba kulit yang sangat baik bagi tubuh
+Membuat hari tampak cerah
+
+itulah lingkunganku
+itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur
+
+
 ### Opini
 
