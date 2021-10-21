@@ -116,18 +116,26 @@ Menurun :
 
 ### Komik
 ### Puisi
-Lingkungan sehat kiri kanan pepohonan menjulang
-menyebarkan udara yang segar tak ada sampah kutemukan di sekitar panjang jalan
+    Lingkungan sehat kiri kanan pepohonan menjulang
 
-Gunung tinggi diatas tanah Berkabut putih dan cerah Udara sejuk di pagi hari Sawah hijau nan luas
+    menyebarkan udara yang segar tak ada sampah kutemukan di sekitar panjang jalan
 
-Matahari yang hangat
-Menyinari lingkungan alam
-Sinar matahari meraba kulit yang sangat baik bagi tubuh
-Membuat hari tampak cerah
 
-itulah lingkunganku
-itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur
+    Gunung tinggi diatas tanah Berkabut putih dan cerah Udara sejuk di pagi hari Sawah hijau nan luas
+
+
+    Matahari yang hangat
+
+    Menyinari lingkungan alam
+
+    Sinar matahari meraba kulit yang sangat baik bagi tubuh
+
+    Membuat hari tampak cerah
+
+
+    itulah lingkunganku
+    
+    itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur
 
 
 ### Opini
