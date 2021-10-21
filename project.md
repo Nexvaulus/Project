@@ -141,4 +141,8 @@ Menurun :
 ### Opini
 Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karna bumi memiliki sumber daya alam yg bisa diperbarui dan ada juga yang tidak dapat di perbarui, maka dari itu penting sekali kita untuk menjaga bumi kita ini, salah satunya dengan cara menerapkan gaya hidup berkelanjutan. Yang paling mudah bisa dilakukan dengan membuang sampah pada tempatnya.
 
+---
+
 Foto - foto lingkungan ada [disini](img/foto-lingkungan)
+
+beberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
