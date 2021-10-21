@@ -45,31 +45,31 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 
 ### Teka teki
 Mendatar :
-    1. Proses pengikisan pantai yang diakibatkan oleh tenaga gelombang laut dan arus laut
-    3. Singkatan dari “Penanganan Prasarana dan Sarana Umum” ; Petugas berseragam oranye yang sering kita lihat membersihkan jalanan
-    5. Daerah di Bekasi sebagai TPS terbesar di Indonesia
-    8. Singkatan dari “Bahan Berbahaya dan Beracun” ; B3
-    9. Singkatan dari “Tempat Pembuangan Sampah”
-    10. Indah dan sedap dipandang mata ; Terkait dengan lingkungan
-    13. Jenis sampah yang sedikit mengandung air
-    14. Jenis sampah yang dapat mengalami pelapukan (dekomposisi) dan terurai menjadi bahan yang lebih kecil
-    17. Sifat zat dengan ph dibawah 7
-    18. Uap yang dapat terlihat yang dihasilkan dari pembakaran
-    19. Sinonim dari “Hewan”
-    20. Sumber Energi dari PLTB ; Kepanjagan “B” dari PLTB ; Angin
+1. Proses pengikisan pantai yang diakibatkan oleh tenaga gelombang laut dan arus laut
+3. Singkatan dari “Penanganan Prasarana dan Sarana Umum” ; Petugas berseragam oranye yang sering kita lihat membersihkan jalanan
+5. Daerah di Bekasi sebagai TPS terbesar di Indonesia
+8. Singkatan dari “Bahan Berbahaya dan Beracun” ; B3
+9. Singkatan dari “Tempat Pembuangan Sampah”
+10. Indah dan sedap dipandang mata ; Terkait dengan lingkungan
+13. Jenis sampah yang sedikit mengandung air
+14. Jenis sampah yang dapat mengalami pelapukan (dekomposisi) dan terurai menjadi bahan yang lebih kecil
+17. Sifat zat dengan ph dibawah 7
+18. Uap yang dapat terlihat yang dihasilkan dari pembakaran
+19. Sinonim dari “Hewan”
+20. Sumber Energi dari PLTB ; Kepanjagan “B” dari PLTB ; Angin
 
 Menurun : 
-    2. Sumber Energi dari PLTS ; Kepanjagan “S” dari PLTS ; Matahari
-    3. Bahan utama dari kresek / sedotan,yang sangat sulit untuk terurai
-    4. Sesuatu yang tertinggal sebagai sisa ; used ; second-hand
-    5. Ekosfer ; Seluruh ekosistem di seluruh penjuru Bumi ; Anggota luar dari planet Bumi mencakup udara, daratan, dan cairan, yang memungkinkan kehidupan berlangsung
-    6. Energi yang berasal dari proses alam yang berkelanjutan (surya, angin, arus air, biologi, dan panas bumi)
-    7. Banjir yang diakibatkan oleh air laut yang menggenangi daratan yang lebih rendah
-    11. Sisa proses produksi ; Bahan yang tidak mempunyai nilai untuk maksud biasa
-    12. Jenis sampah yang memiliki kandungan air cukup tinggi
-    15. Cabang dari ilmu fisik yang mempelajari tentang susunan, struktur, sifat, dan perubahan materi
-    16. Jenis barang dan jasa yang pada dasarnya berbeda dari yang telah dipasarkan sebelumnya ; new
-    21. Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan-bahan organik
+2. Sumber Energi dari PLTS ; Kepanjagan “S” dari PLTS ; Matahari
+3. Bahan utama dari kresek / sedotan,yang sangat sulit untuk terurai
+4. Sesuatu yang tertinggal sebagai sisa ; used ; second-hand
+5. Ekosfer ; Seluruh ekosistem di seluruh penjuru Bumi ; Anggota luar dari planet Bumi mencakup udara, daratan, dan cairan, yang memungkinkan kehidupan berlangsung
+6. Energi yang berasal dari proses alam yang berkelanjutan (surya, angin, arus air, biologi, dan panas bumi)
+7. Banjir yang diakibatkan oleh air laut yang menggenangi daratan yang lebih rendah
+11. Sisa proses produksi ; Bahan yang tidak mempunyai nilai untuk maksud biasa
+12. Jenis sampah yang memiliki kandungan air cukup tinggi
+15. Cabang dari ilmu fisik yang mempelajari tentang susunan, struktur, sifat, dan perubahan materi
+16. Jenis barang dan jasa yang pada dasarnya berbeda dari yang telah dipasarkan sebelumnya ; new
+21. Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan-bahan organik
 
 
 ### Komik
