@@ -58,18 +58,18 @@ Mendatar :
 19. Sinonim dari “Hewan”
 20. Sumber Energi dari PLTB ; Kepanjagan “B” dari PLTB ; Angin
 
-Menurun : 
-2. Sumber Energi dari PLTS ; Kepanjagan “S” dari PLTS ; Matahari 
-3. Bahan utama dari kresek / sedotan,yang sangat sulit untuk terurai 
-4. Sesuatu yang tertinggal sebagai sisa ; used ; second-hand 
-5. Ekosfer ; Seluruh ekosistem di seluruh penjuru Bumi ; Anggota luar dari planet Bumi mencakup udara, daratan, dan cairan, yang memungkinkan kehidupan berlangsung 
-6. Energi yang berasal dari proses alam yang berkelanjutan (surya, angin, arus air, biologi, dan panas bumi) 
-7. Banjir yang diakibatkan oleh air laut yang menggenangi daratan yang lebih rendah  
-11. Sisa proses produksi ; Bahan yang tidak mempunyai nilai untuk maksud biasa 
-12. Jenis sampah yang memiliki kandungan air cukup tinggi 
-15. Cabang dari ilmu fisik yang mempelajari tentang susunan, struktur, sifat, dan perubahan materi 
-16. Jenis barang dan jasa yang pada dasarnya berbeda dari yang telah dipasarkan sebelumnya ; new  
-21. Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan-bahan organik 
+Menurun :
+2. Sumber Energi dari PLTS ; Kepanjagan “S” dari PLTS ; Matahari            
+3. Bahan utama dari kresek / sedotan,yang sangat sulit untuk terurai           
+4. Sesuatu yang tertinggal sebagai sisa ; used ; second-hand       
+5. Ekosfer ; Seluruh ekosistem di seluruh penjuru Bumi ; Anggota luar dari planet Bumi mencakup udara, daratan, dan cairan, yang memungkinkan kehidupan berlangsung       
+6. Energi yang berasal dari proses alam yang berkelanjutan (surya, angin, arus air, biologi, dan panas bumi)     
+7. Banjir yang diakibatkan oleh air laut yang menggenangi daratan yang lebih rendah      
+11. Sisa proses produksi ; Bahan yang tidak mempunyai nilai untuk maksud biasa      
+12. Jenis sampah yang memiliki kandungan air cukup tinggi        
+15. Cabang dari ilmu fisik yang mempelajari tentang susunan, struktur, sifat, dan perubahan materi       
+16. Jenis barang dan jasa yang pada dasarnya berbeda dari yang telah dipasarkan sebelumnya ; new      
+21. Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan-bahan organik      
 
 ### Komik
 ### Puisi
