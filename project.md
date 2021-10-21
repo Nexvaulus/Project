@@ -1,5 +1,6 @@
 # Project
-    Tema : Bentuk gaya hidup berkelanjutan
+    Bentuk gaya hidup berkelanjutan
+    Tema : Menjaga lingkungan sekitar
     Artikel, cerpen, biografi, komik, puisi, opini, tips & trick
 
 ## Redaksi (Pembagian tugas)
@@ -44,6 +45,10 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 
 
 ### Teka teki
+Gambar Teka teki ada [disini](img\tts-kosong.jpeg)
+Gambar Teka teki ada [disini](img/tts-kosong.jpeg)
+
+
 Mendatar :
 
     [1] Proses pengikisan pantai yang diakibatkan oleh tenaga gelombang laut dan arus laut 
@@ -93,6 +98,7 @@ Menurun :
     [16] Jenis barang dan jasa yang pada dasarnya berbeda dari yang telah dipasarkan sebelumnya ; new
 
     [21] Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan-bahan organik
+
 
 ### Komik
 ### Puisi
