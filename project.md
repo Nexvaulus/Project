@@ -61,7 +61,7 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 
 
 ### Teka teki
-Gambar Teka teki ada [disini](img/tts-kosong.jpeg) dan kunci jawabannya [disini](img/tts-kunci-jawaban.jpeg)
+Gambar Teka teki ada [disini](img/tts-kosong.jpeg) dan kunci jawabannya [disini](img/teka-teki)
 
 Mendatar :
 
@@ -143,6 +143,8 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
 
 ---
 
-Foto - foto lingkungan ada [disini](img/foto-lingkungan)
+Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
 
-beberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
+Foto - foto pemandangan dari Indramayu ada [di sini](img/pemandangan)
+
+Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
