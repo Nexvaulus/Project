@@ -61,7 +61,7 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 
 
 ### Teka teki
-Gambar Teka teki ada [disini](img/tts-kosong.jpeg) dan kunci jawabannya [disini](img/teka-teki)
+Gambar Teka teki ada [disini](img/teka-teki/tts-kosong.jpeg) dan kunci jawabannya [disini](img/teka-teki/tts-kunci-jawaban.jpeg)
 
 Mendatar :
 
