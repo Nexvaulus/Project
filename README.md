@@ -27,7 +27,7 @@
 </p>
     
     
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 
 ## Redaksi (Pembagian tugas)
@@ -38,7 +38,7 @@
     * Editor => Faris & Faiz
     * Layouter/Tata letak => Sammy 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ## Isi
     * Artikel => [Reporter] 
@@ -50,7 +50,7 @@
     * Opini => [Reporter]
     * Tips & trick => [Sammy & Faris]
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Artikel
 Konsep keberlanjutan atau sustainability saat ini sedang banyak diterapkan oleh masyarakat sebagai upaya untuk membuat Bumi menjadi lebih baik dan mencegah terjadinya krisis lingkungan. Salah satunya adalah Gaya hidup berkelanjutan yang berarti melakukan aktivitas dengan menjaga kelestarian seperti  mengurangi penggunaan plastik, meminimalisir sisa makanan, dan membiasakan hidup bersih.
@@ -61,12 +61,12 @@ Berdasarkan UN Decade on Ecosystem Restoration, setidaknya ada tiga gaya hidup y
 
 Penting untuk diketahui bahwa gaya hidup berkelanjutan merupakan upaya penting yang dilakukan untuk membantu menjadikan ekosistem kita lebih baik bagi generasi selanjutnya. Beberapa manfaat yang kita dapat dari gaya hidup berkelanjutan adalah Berkurangnya Sampah Plastik, Turunnya Polusi Udara, dan Keadaan Lingkungan Menjadi Lebih Bersih dan Nyaman.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Biografi
 Manohara Odelia Pinot Lahir dari keluarga berkebangsaan amerika dan keturunan kebangsaan bugis pada tanggal 28 Febuari 1992. Manohara memulai karirnya sebagai model dan aktris, diusia mudanya dia berhasil mendapat penghargaan 100 pesona Indonesia. Setelah tidak aktif didunia hiburan Manohara terkenal sebagai aktivis peduli lingkungan. Manohara Odelia Pinot mulai aktif sebagai aktivis peduli lingkungan, bahkan Manohara pernah mengikuti pemilu agar dapat membenahi persoalan lingkungan. Meski Manohara belum berhasil menjadi anggota DPR dia tetap aktif sebagai Aktivis peduli lingkungan. Manohara sering mengikuti acara atau projek  peduli lingkungan. Salah satu aksi yang dia ikuti ialah aksi membersihkan pantai di wiliyah Kepulauan Seribu, Jakarta. Pada kegiatan tersebut Manohara banyak menemukan produk-produk plastik sekali pakai yang dibuang sembarangan oleh beberapa orang.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Cerpen
 Andi, Dafa, dan Fajar adalah tiga orang siswa SD Negeri Pahandut yang telah berteman sejak TK. Ketiga anak tersebut sangat gemar membersihkan lingkungan, tidak heran guru dan sekolah menjadikan mereka sebagai teladan bagi siswa lain. Suatu hari mereka  sedang bermain main di sungai untuk mencari ikan dan berenang  seperti biasanya. Mereka sangat suka bermain di sungai karena ukurannya yang tidak terlalu dalam dan ikan nya cukup banyak. Sembari mereka memancing dan berenang mereka juga memungut sampah di pinggir sungai. Mereka menyadari kurangnya kesadaran masyarakat terhadap kesejahteraan lingkungan. Mereka sepakat bahwa sampah yang menumpuk di sungai bisa menyebabkan banjir di musim hujan nanti.
@@ -77,7 +77,7 @@ Akhirnya tibalah hari dimana acara Jumat bersih spesial itu dilaksanakan. Pada p
 
 Acara bersih - bersih sungai berlangsung selama 2 jam. Setelah acara bersih - bersih sungai selesai, tampak beberapa gundukan sampah yang berhasil dikumpulkan oleh para siswa. Sampah - sampah tersebut kemudian diangkut oleh truk milik Dinas Pekerjaan Umum yang memang sengaja didatangkan untuk mengangkut sampah sungai. Sungai pun kini tampak sangat bersih. Wali kelas serta Andi, Dafa, dan Fajar menjelaskan kepada masyarakat tentang arti pentingnya kebersihan sungai agar masyarakat di sekitar terbebas dari banjir saat musim hujan datang. Oleh karena itu, kita harus selalu menjaga kebersihan lingkungan sekitar kita termasuk kebersihan sungai agar terhindar dari bahaya banjir.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Tips Sehat
 Kita bisa memulai membersihkan dari keinginan diri sendiri dengan memberi contoh kepada masyarakat bagaimana menjaga suatu kebersihan lingkungan. Melibatkan tokoh masyarakat yang berpengaruh agar lebih mudah memberikan arahan kepada masyarakat betapa pentingnya menjaga suatu kebersihan lingkungan. Jangan lupa sertakan para pemuda untuk dapat ikut aktif menjaga kebersihan lingkungan sekitar. Sosialisasikan pada masyarakat untuk harus terbiasa memilih sampah rumah tangga kesampah organik dan non organik agar mempermudah dalam proses filter. Tak lupa pelajari juga teknologi pembuatan pupuk kompos dari sampah organik agar yang dihasilkan dapat dimanfaatkan.
@@ -90,7 +90,7 @@ Tips yang kedua adalah dengan menggunakan sumber daya yang ada dengan bijak, con
 
 Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya adalah saat berbelanja gunakan tas belanja yang dapat digunakan berkali-kali. Nah itu dia tips untuk menjaga lingkungan kita teman-teman.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Teka teki
 Gambar Teka teki ada [disini](img/teka-teki/tts-kosong.jpeg) dan kunci jawabannya [disini](img/teka-teki/tts-kunci-jawaban.jpeg)
@@ -145,11 +145,11 @@ Menurun :
 
     [21] Gas yang dihasilkan oleh aktivitas anaerobik yang mendegradasi bahan-bahan organik
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Komik
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Puisi
 <div align="center">
@@ -175,15 +175,15 @@ Menurun :
   
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Opini
 Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karna bumi memiliki sumber daya alam yg bisa diperbarui dan ada juga yang tidak dapat di perbarui, maka dari itu penting sekali kita untuk menjaga bumi kita ini, salah satunya dengan cara menerapkan gaya hidup berkelanjutan. Yang paling mudah bisa dilakukan dengan membuang sampah pada tempatnya.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
   <p align="center">
-    <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak" >
+    <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
 
 ---
@@ -196,4 +196,4 @@ Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
 
 Biografi Manohara Odelia Pinot [di sini](https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
