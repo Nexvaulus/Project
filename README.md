@@ -2,9 +2,6 @@
   <p>
     <a href="#"><img src="img/thumbnail/logo-avicena.jpeg" alt="Logo Avicena" /></a>
   </p>
-  <p align="center">
-    <img src="img/thumbnail/logo-1.png" alt="" width="456" height="143">
-  </p>
 </div>
 
 
