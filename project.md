@@ -1,6 +1,9 @@
 <div align="center">
   <p>
-    <a href="#"><img src="https://assets.nickficano.com/gh-pytube.min.svg" width="456" height="143" alt="pytube logo" /></a>
+    <a href="#"><img src="thumbnail/logo-avicena" width="456" height="143" alt="Logo Avicena" /></a>
+  </p>
+  <p>
+    <img src="logo-sekolah-penggerak" alt="Logo Sekolah Penggerak">
   </p>
   <p align="center">
 	<img src="https://img.shields.io/pypi/dm/pytube?style=flat-square" alt="pypi"/>
@@ -157,6 +160,6 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
 
 Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
 
-Foto - foto pemandangan dari Indramayu ada [di sini](img/pemandangan)
+Foto - foto pemandangan dari `Indramayu` ada [di sini](img/pemandangan)
 
 Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
