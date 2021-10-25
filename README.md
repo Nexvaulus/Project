@@ -6,7 +6,7 @@
     <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
   <p align="center">
-    <img src="img/thumbnail/logo-1.jpeg" alt="">
+    <img src="img/thumbnail/logo-1.png" alt="">
   </p>
 </div>
 
