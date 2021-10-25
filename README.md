@@ -6,7 +6,7 @@
     <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
   <p align="center">
-    <img src="img/thumbnail/logo-1.jpeg" alt="Logo 1">
+    <img src="img/thumbnail/logo-1.jpeg" alt="">
   </p>
 </div>
 
@@ -161,3 +161,5 @@ Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
 Foto - foto pemandangan dari Indramayu ada [di sini](img/pemandangan)
 
 Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
+
+Biografi Manohara Odelia Pinot [di sini][https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot]
