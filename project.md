@@ -1,3 +1,15 @@
+<div align="center">
+  <p>
+    <a href="#"><img src="https://assets.nickficano.com/gh-pytube.min.svg" width="456" height="143" alt="pytube logo" /></a>
+  </p>
+  <p align="center">
+	<img src="https://img.shields.io/pypi/dm/pytube?style=flat-square" alt="pypi"/>
+	<img src="https://readthedocs.org/projects/python-pytube/badge/?version=latest&style=flat-square" />
+	<img src="https://img.shields.io/pypi/v/pytube?style=flat-square" />
+  </p>
+</div>
+
+
 # Project
     Bentuk gaya hidup berkelanjutan
     Tema : Menjaga lingkungan sekitar
