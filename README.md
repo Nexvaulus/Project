@@ -3,7 +3,7 @@
     <a href="#"><img src="img/thumbnail/logo-avicena.jpeg" alt="Logo Avicena" /></a>
   </p>
   <p align="center">
-    <img src="img/thumbnail/logo-1.png" alt="">
+    <img src="img/thumbnail/logo-1.png" alt="" width="283" height="20">
   </p>
 </div>
 
@@ -151,6 +151,11 @@ Menurun :
 ### Opini
 Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karna bumi memiliki sumber daya alam yg bisa diperbarui dan ada juga yang tidak dapat di perbarui, maka dari itu penting sekali kita untuk menjaga bumi kita ini, salah satunya dengan cara menerapkan gaya hidup berkelanjutan. Yang paling mudah bisa dilakukan dengan membuang sampah pada tempatnya.
 
+<div align="center">
+  <p>
+    <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
+  </p>
+
 ---
 
 Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
@@ -161,7 +166,3 @@ Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
 
 Biografi Manohara Odelia Pinot [di sini][https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot]
 
-<div align="center">
-  <p>
-    <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
-  </p>
