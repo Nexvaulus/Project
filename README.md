@@ -163,4 +163,3 @@ Foto - foto pemandangan dari Indramayu ada [di sini](img/pemandangan)
 Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
 
 Biografi Manohara Odelia Pinot [di sini](https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot)
-
