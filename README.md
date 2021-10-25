@@ -154,24 +154,24 @@ Menurun :
 ### Puisi
 <div align="center">
       
-    <h5>INDAHNYA LINGKUNGANKU</h5>
+<h5>INDAHNYA LINGKUNGANKU</h5>
   
   
-    <p>Lingkungan sehat kiri kanan pepohonan menjulang</p>
-    <p>menyebarkan udara yang segar tak ada sampah kutemukan di sekitar panjang jalan</p>
+<p>Lingkungan sehat kiri kanan pepohonan menjulang</p>
+<p>menyebarkan udara yang segar tak ada sampah kutemukan di sekitar panjang jalan</p>
 
 
-    <p>Gunung tinggi diatas tanah Berkabut putih dan cerah Udara sejuk di pagi hari Sawah hijau nan luas</p>
+<p>Gunung tinggi diatas tanah Berkabut putih dan cerah Udara sejuk di pagi hari Sawah hijau nan luas</p>
 
 
-    <p>Matahari yang hangat</p>
-    <p>Menyinari lingkungan alam</p>
-    <p>Sinar matahari meraba kulit yang sangat baik bagi tubuh</p>
-    <p>Membuat hari tampak cerah</p>
+<p>Matahari yang hangat</p>
+<p>Menyinari lingkungan alam</p>
+<p>Sinar matahari meraba kulit yang sangat baik bagi tubuh</p>
+<p>Membuat hari tampak cerah</p>
 
 
-    <p>itulah lingkunganku</p>
-    <p>itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur</p>
+<p>itulah lingkunganku</p>
+<p>itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur</p>
   
 </div>
 
