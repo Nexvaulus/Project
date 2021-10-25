@@ -1,9 +1,9 @@
 <div align="center">
   <p>
-    <a href="#"><img src="img/thumbnail/logo-avicena.jpeg" width="456" height="143" alt="Logo Avicena" /></a>
+    <a href="#"><img src="img/thumbnail/logo-avicena.jpeg" alt="Logo Avicena" /></a>
   </p>
   <p>
-    <img src="img/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
+    <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
   <p align="center">
 	<img src="https://img.shields.io/pypi/dm/pytube?style=flat-square" alt="pypi"/>
