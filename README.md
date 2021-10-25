@@ -1,9 +1,10 @@
-<div id="top" align="center">
+<div id="top"></div>
+<div align="center">
   <p>
     <a href="#"><img src="img/thumbnail/logo-avicena.jpeg" alt="Logo Avicena"></a>
   </p>
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/project-pertama-brightgreen?style=for-the-badge" alt="badge-project-pertama"></a>
+    <a href="#"><img src="https://img.shields.io/badge/project-pertama-lime?style=for-the-badge" alt="badge-project-pertama"></a>
     <a href="#"><img src="https://img.shields.io/badge/-menjaga%20lingkungan%20sekitar-lightgrey?style=for-the-badge" alt="badge-tema"></a<
   </p>
 </div>
@@ -12,7 +13,19 @@
 # Project
     Bentuk gaya hidup berkelanjutan
     Tema : Menjaga lingkungan sekitar
-    Artikel, cerpen, biografi, komik, puisi, opini, tips & trick
+    Artikel, cerpen, biografi, komik, puisi, teka-teki, opini, tips & trick
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/-artikel-blueviolet?style=for-the-badge" alt="artikel"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-cerpen-blue?style=for-the-badge" alt="cerpen"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-biografi-yellow?style=for-the-badge" alt="biografi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-komik-pink?style=for-the-badge" alt="komik"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-puisi-orange?style=for-the-badge" alt="puisi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-opini-brown?style=for-the-badge" alt="opini"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-tips_&_trick-skyblue?style=for-the-badge" alt="tips_&_trick"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-teka_teki-green?style=for-the-badge" alt="teka_teki"></a>
+</p>
+    
     
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -139,6 +152,11 @@ Menurun :
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Puisi
+<div align="center">
+      
+    INDAHNYA LINGKUNGANKU  
+  
+  
     Lingkungan sehat kiri kanan pepohonan menjulang
 
     menyebarkan udara yang segar tak ada sampah kutemukan di sekitar panjang jalan
@@ -159,6 +177,8 @@ Menurun :
     itulah lingkunganku
 
     itulah tempat tinggalku lingkungan yang subur lingkungan yang makmur
+  
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
