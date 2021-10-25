@@ -153,6 +153,7 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
     <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
 </div>
+
 ---
 
 Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
@@ -161,5 +162,5 @@ Foto - foto pemandangan dari Indramayu ada [di sini](img/pemandangan)
 
 Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
 
-Biografi Manohara Odelia Pinot [di sini][https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot]
+Biografi Manohara Odelia Pinot [di sini](https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot)
 
