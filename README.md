@@ -1,6 +1,9 @@
 <div align="center">
   <p>
-    <a href="#"><img src="https://assets.nickficano.com/gh-pytube.min.svg" width="456" height="143" alt="pytube logo" /></a>
+    <a href="#"><img src="thumbnail/logo-avicena.jpeg" width="456" height="143" alt="Logo Avicena" /></a>
+  </p>
+  <p>
+    <img src="logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
   <p align="center">
 	<img src="https://img.shields.io/pypi/dm/pytube?style=flat-square" alt="pypi"/>
