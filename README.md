@@ -152,7 +152,7 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
   <p>
     <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
-
+</div>
 ---
 
 Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
