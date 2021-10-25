@@ -2,11 +2,8 @@
   <p>
     <a href="#"><img src="img/thumbnail/logo-avicena.jpeg" alt="Logo Avicena" /></a>
   </p>
-  <p>
-    <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
-  </p>
   <p align="center">
-    <img src="img/thumbnail/logo-2.png" alt="">
+    <img src="img/thumbnail/logo-1.png" alt="">
   </p>
 </div>
 
@@ -163,3 +160,8 @@ Foto - foto pemandangan dari Indramayu ada [di sini](img/pemandangan)
 Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
 
 Biografi Manohara Odelia Pinot [di sini][https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot]
+
+<div align="center">
+  <p>
+    <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
+  </p>
