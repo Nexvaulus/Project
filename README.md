@@ -6,9 +6,7 @@
     <img src="img/thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
   <p align="center">
-	<img src="https://img.shields.io/pypi/dm/pytube?style=flat-square" alt="pypi"/>
-	<img src="https://readthedocs.org/projects/python-pytube/badge/?version=latest&style=flat-square" />
-	<img src="https://img.shields.io/pypi/v/pytube?style=flat-square" />
+    <img src="img/thumbnail/logo-1.jpeg" alt="Logo 1">
   </p>
 </div>
 
