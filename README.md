@@ -230,7 +230,7 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
 
 Foto - foto lingkungan[^1] 
 
-Foto - foto pemandangan dari Indramayu ada[^2]
+Foto - foto pemandangan dari Indramayu[^2]
 
 Biografi Manohara Odelia Pinot[^3]
 
