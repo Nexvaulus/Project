@@ -35,14 +35,11 @@
     </li>  
     <li>
       <a href="#footer">Referensi</a>
-      <ul>
-        <li><a href="#acknowledgments">Acknowledgments</a></li>
-      </ul>
     </li>
   </ol>
 </details>
 
-
+<!-- Ini adalah pendahuluan dari project -->
 <h1 id="project">Project</h1>
 
     Bentuk gaya hidup berkelanjutan
@@ -74,6 +71,8 @@
     * Layouter/Tata letak => Sammy 
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
+<!-- Ini adalah isi dari project ini -->
 
 <h2 id="isi">Isi</h2>
 
@@ -238,8 +237,7 @@ Neberapa foto diambil dari unsplash[^4]
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-[^1]: img/foto-lingkungan 
-[^2]: img/pemandangan
+[^1]: [Foto lingkungan](img/foto-lingkungan)
+[^2]: [Foto dari Indramayu](img/pemandangan)
 [^3]: https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot
 [^4]: https://unsplash.com  
-       
