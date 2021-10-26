@@ -241,8 +241,7 @@ Neberapa foto diambil dari unsplash[^4]
 [^1]: [Foto foto lingkungan](img/foto-lingkungan) 
 [^2]: [Beberapa foto diambil dari sawah yang ada di Indramayu](img/pemandangan)
 [^3]: Biografi diambil dari beberapa sumber
-  https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot
-  https://www.viva.co.id/siapa/read/560-manohara-odelia-pinot  
-  https://jurnalsoreang.pikiran-rakyat.com/hiburan/pr-1012716522/profil-dan-biodata-manohara-odelia-pinot-yang-pernah-dikabarkan-meninggal-overdosis-dan-kdrt-di-malayssia
+      https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot
+      https://www.viva.co.id/siapa/read/560-manohara-odelia-pinot  
 [^4]: https://unsplash.com  
        
