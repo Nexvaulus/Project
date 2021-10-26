@@ -21,7 +21,7 @@
       </ul>
     </li>
     <li>
-      <a href="isi">Isi</a>
+      <a href="#isi">Isi</a>
       <ul>
         <li><a href="#artikel">Artikel</a></li>
         <li><a href="#biografi">Biografi</a></li>
@@ -129,7 +129,7 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 <h3 id="teka-teki">Teka teki</h3>
-Gambar Teka teki ada [disini](img/teka-teki/tts-kosong.jpeg) dan kunci jawabannya [disini](img/teka-teki/tts-kunci-jawaban.jpeg)
+Gambar Teka teki ada [disini](img/teka-teki)
 
 Mendatar :
 
@@ -226,7 +226,20 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
 
 ---
 
-<div id="footer">Referensi</div>
+<h2 id="footer">Referensi</h2>
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
 
 Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
 
