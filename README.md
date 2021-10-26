@@ -11,36 +11,39 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of Content</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#daftar-isi">Daftar Isi</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built With</a><a href="https://www.w3schools.io/file/markdown-introduction/">markdown</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#pendahuluan">Pendahuluan</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+      <ul>
+      <li><a href="#usage">Usage</a></li>
+      <li><a href="#roadmap">Roadmap</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+      <li><a href="#license">License</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#acknowledgments">Acknowledgments</a></li>
+      <li><a href="#acknowledgments">Acknowledgments</a></li>
+      <li><a href="#acknowledgments">Acknowledgments</a></li>
+      <li><a href="#acknowledgments">Acknowledgments</a></li>
+      <li><a href="#acknowledgments">Acknowledgments</a></li>
+      </ul>
   </ol>
 </details>
 
 
 <h1 class="project">Project</h1>
+
     Bentuk gaya hidup berkelanjutan
     Tema : Menjaga lingkungan sekitar
     Artikel, cerpen, biografi, komik, puisi, teka-teki, opini, tips & trick
@@ -61,6 +64,7 @@
 
 
 <h2 class="redaksi">Redaksi (Pembagian tugas)</h2>
+
     * Pembina => Meta Saputra
     * Ketua/Pemimpin Redaksi => Fikri
     * Fotografer => Anindita & Andra
@@ -71,6 +75,7 @@
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 <h2 class="isi">Isi</h2>
+
     * Artikel => [Reporter] 
     * Biografi => [Reporter]
     * cerpen => (Fikri) 
