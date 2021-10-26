@@ -9,8 +9,38 @@
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-# Project
+
+<h1 class="project">Project</h1>
     Bentuk gaya hidup berkelanjutan
     Tema : Menjaga lingkungan sekitar
     Artikel, cerpen, biografi, komik, puisi, teka-teki, opini, tips & trick
@@ -30,7 +60,7 @@
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 
-## Redaksi (Pembagian tugas)
+<h2 class="redaksi">Redaksi (Pembagian tugas)</h2>
     * Pembina => Meta Saputra
     * Ketua/Pemimpin Redaksi => Fikri
     * Fotografer => Anindita & Andra
@@ -40,7 +70,7 @@
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-## Isi
+<h2 class="isi">Isi</h2>
     * Artikel => [Reporter] 
     * Biografi => [Reporter]
     * cerpen => (Fikri) 
@@ -52,7 +82,7 @@
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Artikel
+<h3 class="artikel">Artikel</h3>
 Konsep keberlanjutan atau sustainability saat ini sedang banyak diterapkan oleh masyarakat sebagai upaya untuk membuat Bumi menjadi lebih baik dan mencegah terjadinya krisis lingkungan. Salah satunya adalah Gaya hidup berkelanjutan yang berarti melakukan aktivitas dengan menjaga kelestarian seperti  mengurangi penggunaan plastik, meminimalisir sisa makanan, dan membiasakan hidup bersih.
 
 Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini. Bumi memiliki sumber daya alam yang dapat diperbarui dan ada pula yang tidak dapat diperbarui. Menurut Program Lingkungan PBB, jika populasi global mencapai 9,6 miliar pada tahun 2050, kita membutuhkan setara dengan hampir tiga planet untuk menyediakan sumber daya alam yang dibutuhkan untuk mempertahankan gaya hidup saat ini.
@@ -63,12 +93,12 @@ Penting untuk diketahui bahwa gaya hidup berkelanjutan merupakan upaya penting y
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Biografi
+<h3 class="biografi">Biografi</h3>
 Manohara Odelia Pinot Lahir dari keluarga berkebangsaan amerika dan keturunan kebangsaan bugis pada tanggal 28 Febuari 1992. Manohara memulai karirnya sebagai model dan aktris, diusia mudanya dia berhasil mendapat penghargaan 100 pesona Indonesia. Setelah tidak aktif didunia hiburan Manohara terkenal sebagai aktivis peduli lingkungan. Manohara Odelia Pinot mulai aktif sebagai aktivis peduli lingkungan, bahkan Manohara pernah mengikuti pemilu agar dapat membenahi persoalan lingkungan. Meski Manohara belum berhasil menjadi anggota DPR dia tetap aktif sebagai Aktivis peduli lingkungan. Manohara sering mengikuti acara atau projek  peduli lingkungan. Salah satu aksi yang dia ikuti ialah aksi membersihkan pantai di wiliyah Kepulauan Seribu, Jakarta. Pada kegiatan tersebut Manohara banyak menemukan produk-produk plastik sekali pakai yang dibuang sembarangan oleh beberapa orang.
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Cerpen
+<h3 class="cerpen">Cerpen</h3>
 Andi, Dafa, dan Fajar adalah tiga orang siswa SD Negeri Pahandut yang telah berteman sejak TK. Ketiga anak tersebut sangat gemar membersihkan lingkungan, tidak heran guru dan sekolah menjadikan mereka sebagai teladan bagi siswa lain. Suatu hari mereka  sedang bermain main di sungai untuk mencari ikan dan berenang  seperti biasanya. Mereka sangat suka bermain di sungai karena ukurannya yang tidak terlalu dalam dan ikan nya cukup banyak. Sembari mereka memancing dan berenang mereka juga memungut sampah di pinggir sungai. Mereka menyadari kurangnya kesadaran masyarakat terhadap kesejahteraan lingkungan. Mereka sepakat bahwa sampah yang menumpuk di sungai bisa menyebabkan banjir di musim hujan nanti.
 
 Suatu pagi pada saat jam istirahat di sekolah, Andi, Dafa, dan Fajar pergi ke kantor guru. Mereka menemui Bapak Hambali, wali kelas mereka. Dafa menceritakan tentang banyaknya sampah yang ada di sungai, cerita Dafa ditimpali dan dilengkapi oleh Andi dan Fajar. Mereka mengusulkan untuk menjadikan sungai sebagai objek Jumat bersih yang diadakan setiap 1 bulan sekali. Usulan mereka mendapatkan tanggapan positif dari Pak Hambali dan guru guru yang lain.
@@ -79,7 +109,7 @@ Acara bersih - bersih sungai berlangsung selama 2 jam. Setelah acara bersih - be
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Tips Sehat
+<h3 class="tips-sehat">Tips Sehat</h3>
 Kita bisa memulai membersihkan dari keinginan diri sendiri dengan memberi contoh kepada masyarakat bagaimana menjaga suatu kebersihan lingkungan. Melibatkan tokoh masyarakat yang berpengaruh agar lebih mudah memberikan arahan kepada masyarakat betapa pentingnya menjaga suatu kebersihan lingkungan. Jangan lupa sertakan para pemuda untuk dapat ikut aktif menjaga kebersihan lingkungan sekitar. Sosialisasikan pada masyarakat untuk harus terbiasa memilih sampah rumah tangga kesampah organik dan non organik agar mempermudah dalam proses filter. Tak lupa pelajari juga teknologi pembuatan pupuk kompos dari sampah organik agar yang dihasilkan dapat dimanfaatkan.
 
 Teman-teman sebenarnya ada tips asik untuk menjaga lingkungan, kalau temen-temen mau tau bisa baca 3 tipsnya ya. 
@@ -92,7 +122,7 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Teka teki
+<h3 class="teka-teki">Teka teki</h3>
 Gambar Teka teki ada [disini](img/teka-teki/tts-kosong.jpeg) dan kunci jawabannya [disini](img/teka-teki/tts-kunci-jawaban.jpeg)
 
 Mendatar :
@@ -147,11 +177,12 @@ Menurun :
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Komik
+<h3 class="komik">Komik</h3>
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Puisi
+<h3 class="puisi">Puisi</h3>
+
 <div align="center">
       
 <h4>INDAHNYA LINGKUNGANKU</h4>
@@ -178,7 +209,7 @@ Menurun :
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Opini
+<h3 class="opini">Opini</h3>
 Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karna bumi memiliki sumber daya alam yg bisa diperbarui dan ada juga yang tidak dapat di perbarui, maka dari itu penting sekali kita untuk menjaga bumi kita ini, salah satunya dengan cara menerapkan gaya hidup berkelanjutan. Yang paling mudah bisa dilakukan dengan membuang sampah pada tempatnya.
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
@@ -188,6 +219,8 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
   </p>
 
 ---
+
+<div class="footer"></div>
 
 Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
 
