@@ -14,24 +14,27 @@
   <summary>Daftar Isi</summary>
   <ol>
     <li>
-      <a href="#pendahuluan">Pendahuluan</a>
+      <a href=".project">Pendahuluan</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Tentang</a></li>
+        <li><a href="#installation">Redaksi</a></li>
       </ul>
     </li>
+    <li>
+      <a href="isi">Isi</a>
       <ul>
-      <li><a href="#usage">Usage</a></li>
-      <li><a href="#roadmap">Roadmap</a></li>
-      <li><a href="#contributing">Contributing</a></li>
-      <li><a href="#license">License</a></li>
-      <li><a href="#contact">Contact</a></li>
-      <li><a href="#acknowledgments">Acknowledgments</a></li>
-      <li><a href="#acknowledgments">Acknowledgments</a></li>
-      <li><a href="#acknowledgments">Acknowledgments</a></li>
-      <li><a href="#acknowledgments">Acknowledgments</a></li>
-      <li><a href="#acknowledgments">Acknowledgments</a></li>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#license">License</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
       </ul>
+    </li>
   </ol>
 </details>
 
