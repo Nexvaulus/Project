@@ -228,25 +228,21 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
 
 <h2 id="footer">Referensi</h2>
 
-Here is a simple footnote[^1].
+Foto - foto lingkungan[^1] 
 
-A footnote can also have multiple lines[^2].  
+Foto - foto pemandangan dari Indramayu ada[^2]
 
-You can also use words, to fit your writing style more closely[^note].
+Biografi Manohara Odelia Pinot[^3]
 
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-
-Foto - foto lingkungan ada [di sini](img/foto-lingkungan)
-
-Foto - foto pemandangan dari Indramayu ada [di sini](img/pemandangan)
-
-Neberapa foto diambil dari unsplash, [link](https://unsplash.com) ke unsplash
-
-Biografi Manohara Odelia Pinot [di sini](https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot)
+Neberapa foto diambil dari unsplash[^4]
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
+[^1]: [Foto foto lingkungan](img/foto-lingkungan) 
+[^2]: [Beberapa foto diambil dari sawah yang ada di Indramayu](img/pemandangan)
+[^3]: Biografi diambil dari beberapa sumber
+    https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot
+    https://www.viva.co.id/siapa/read/560-manohara-odelia-pinot  
+    https://jurnalsoreang.pikiran-rakyat.com/hiburan/pr-1012716522/profil-dan-biodata-manohara-odelia-pinot-yang-pernah-dikabarkan-meninggal-overdosis-dan-kdrt-di-malayssia
+[^4]: Beberapa foto diambil dari website  
+    https://unsplash.com    
