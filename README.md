@@ -11,14 +11,8 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Content</summary>
+  <summary>Daftar Isi</summary>
   <ol>
-    <li>
-      <a href="#daftar-isi">Daftar Isi</a>
-      <ul>
-        <li><a href="#built-with">Built With</a><a href="https://www.w3schools.io/file/markdown-introduction/">markdown</a></li>
-      </ul>
-    </li>
     <li>
       <a href="#pendahuluan">Pendahuluan</a>
       <ul>
