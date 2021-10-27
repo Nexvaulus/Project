@@ -184,6 +184,11 @@ Menurun :
 
 <h3 id="komik">Komik</h3>
 
+<div align="center"> 
+    <img src="img/komik/komik-dark-style>
+</div>
+
+
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 <h3 id="puisi">Puisi</h3>
