@@ -237,7 +237,7 @@ Beberapa foto diambil dari unsplash[^4]
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-[^1]: [Foto lingkungan](img/foto-lingkungan)
-[^2]: [Foto dari Indramayu](img/pemandangan)
-[^3]: https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot
-[^4]: https://unsplash.com  
+[^1]: <a href="img/foto-lingkungan" target="_blank">Foto lingkungan</a>
+[^2]: <a href="img/pemandangan" target="_blank">Foto dari Indramayu</a>
+[^3]: <a href="https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot" target="_blank">https://id.wikipedia.org/wiki/Manohara_Odelia_Pinot</a>
+[^4]: <a href="https://unsplash.com" target="_blank">https://unsplash.com</a>
