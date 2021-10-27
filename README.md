@@ -185,7 +185,7 @@ Menurun :
 <h3 id="komik">Komik</h3>
 
 <div align="center"> 
-    <img src="img/komik/komik-dark-style>
+    <img src="img/komik/komik-dark-style.jpg">
 </div>
 
 
