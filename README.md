@@ -128,6 +128,7 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 <h3 id="teka-teki">Teka teki</h3>
+
 Gambar Teka teki ada [disini](img/teka-teki)
 
 Mendatar :
