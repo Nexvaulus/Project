@@ -131,6 +131,10 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 
 Gambar Teka teki ada [disini](img/teka-teki)
 
+<div align="center">
+  <img src="img/teka-teki/tts-kosong.jpeg">
+</div>  
+
 Mendatar :
 
     [1] Proses pengikisan pantai yang diakibatkan oleh tenaga gelombang laut dan arus laut 
