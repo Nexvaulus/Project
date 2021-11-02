@@ -76,14 +76,14 @@
 
 <h2 id="isi">Isi</h2>
 
-    * Artikel => [Reporter] 
-    * Biografi => [Reporter]
+    * Artikel => {Reporter}
+    * Biografi => {Reporter}
     * cerpen => (Fikri) 
     * Teka teki => (Azka) 
     * Komik => (Faiz) 
     * Puisi => (Sammy) 
-    * Opini => [Reporter]
-    * Tips & trick => [Sammy & Faris]
+    * Opini => {Reporter}
+    * Tips & trick => [Sammy, Faris]
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
