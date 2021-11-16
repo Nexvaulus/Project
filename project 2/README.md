@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="#"><img src="...//project1/img/thumbnail/logo-avicena.jpeg" alt="Logo Avicena"></a>
+    <a href="#"><img src="img/logo-avicena.jpeg" alt="Logo Avicena"></a>
   </p>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/project-pertama-lime?style=for-the-badge" alt="badge-project-pertama"></a>
@@ -18,34 +18,23 @@ Durasi total 5 - 15 menit
 Audio terpisah pake mic clip on
 Upload ke google drive (nanti dikasi)
 Visual :
-(min)30 fps
-Rasio 9:16
-Resolusi (min) 1920x1080
-
+    (min)30 fps
+    Rasio 9:16
+    Resolusi (min) 1920x1080
 ## Isi
 
-Wawancara
- 
-````
-Pertanyaan: 
+Wawancara :
+```
+pertanyaan:
     Nama
-    Suku
-    Pendapat tentang perbedaan yang terjadi
-
-Pesan untuk anak muda tentang perbedaan
-1 kalimat bahasa daerah
+    Asal daerah, suku, pernah tinggal di..
+    Pendapat tentang toleransi, keberagaman, / persatuan
+    Pesan, harapan, kesan, utk Indonesia (bahasa daerah)
+    jangan lupa nanya artinya nanti dimasukin ke sub
+    Pesan untuk generasi muda
+    Suruh bacain 1 baris orasi
 ```
 
-Orasi
-
-Wawancara :
-Nama
-Asal daerah, suku, pernah tinggal di..
-Pendapat tentang toleransi, keberagaman, / persatuan
-Pesan, harapan, kesan, utk Indonesia (bahasa daerah)
-jangan lupa nanya artinya nanti dimasukin ke sub
-Pesan untuk generasi muda
-Suruh bacain 1 baris orasi
 
 Nanti format editnya tiap jawaban pertanyaan kita satuin dulu, baru lanjut ke pertanyaan lain, tiap ganti pertanyaan, pertanyaan dari kitanya dimasukin. Kalo suaranya kecil krn clip onnya dipegang dia, tgl kita take ulang pertanyaannya
 
@@ -53,3 +42,8 @@ Kalo resolusi atau fps nya ada yg lebih tinggi nanti tgl di compress biar sama, 
 
 Abis mereka bacain orasi, langsung kita samber make orasi dari kitanya, tapi karena kitanya ga onscreen, jadi kita mesti ngumpulin footage lain, bisa video mereka yg di slowmo, atau ngambil dari google foto2 org make baju daerah.
 Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkwk
+
+
+<div align="center">
+    <a href="img/logo-sekolah-penggerak.jpeg"></a>
+</div>
