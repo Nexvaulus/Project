@@ -76,14 +76,14 @@
 
 <h2 id="isi">Isi</h2>
 
-    * Artikel => [Reporter] 
-    * Biografi => [Reporter]
+    * Artikel => {Reporter}
+    * Biografi => {Reporter}
     * cerpen => (Fikri) 
     * Teka teki => (Azka) 
     * Komik => (Faiz) 
     * Puisi => (Sammy) 
-    * Opini => [Reporter]
-    * Tips & trick => [Sammy & Faris]
+    * Opini => {Reporter}
+    * Tips & trick => [Sammy, Faris]
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
@@ -128,7 +128,12 @@ Tips yang terakhir adalah menghindari barang-barang yang sekali pakai, contohnya
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 <h3 id="teka-teki">Teka teki</h3>
+
 Gambar Teka teki ada [disini](img/teka-teki)
+
+<div align="center">
+  <img src="img/teka-teki/tts-kosong.jpeg">
+</div>  
 
 Mendatar :
 
