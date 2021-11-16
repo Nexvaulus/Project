@@ -45,5 +45,5 @@ Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkw
 
 
 <div align="center">
-    <a href="img/logo-sekolah-penggerak.jpeg"></a>
+    <img src="img/logo-sekolah-penggerak.jpeg">
 </div>
