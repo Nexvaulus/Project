@@ -159,7 +159,7 @@ Karena kita adalah Indonesia
 
 **Bersatu kita teguh, bercerai kita runtuh** => bersama sama
 
-<br><br><br>
+<br>
 
 ## PR
 
