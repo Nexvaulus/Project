@@ -100,7 +100,7 @@ Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkw
 + Mic
 + Dan sebagainya
 
-<br><br><br>
+<br>
 ## Isi
 ### Wawancara
 
