@@ -101,7 +101,9 @@ Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkw
 + Dan sebagainya
 
 <br>
+
 ## Isi
+
 ### Wawancara
 
 + Nama : 
