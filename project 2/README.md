@@ -6,7 +6,7 @@
   </p>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/project-kedua-lime?style=for-the-badge" alt="badge-project-pertama"></a>
-    <a href="#"><img src="https://img.shields.io/badge/kebhinekaan_dan_perbedaan-lightgrey?style=for-the-badge" alt="badge-tema"></a>
+    <a href="#"><img src="https://img.shields.io/badge/bhineka_tunggal_ika-lightgrey?style=for-the-badge" alt="badge-tema"></a>
   </p>
 </div>
 
@@ -78,6 +78,31 @@ Orasi tidak on screen (dokumenter)
 + Diiringi lagu daerah
 
 #### Naskah orasi (rancangan)
+
+<ul>
+  <li>s</li>
+  <li>s</li>
+  <li>s</li>
+  <li>s</li>
+</ul>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  
+</ul>
+<ul>
+  
+</ul>
+<ul>
+  
+</ul>
+<ul>
+  
+</ul>
+
+
 
 ```
 Negara Kesatuan republik Indonesia
