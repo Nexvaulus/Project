@@ -10,6 +10,15 @@
   </p>
 </div>
 
+- [Project](#project)
+    - [Perlengkapan](#perlengkapan)
+  - [Isi](#isi)
+    - [Wawancara](#wawancara)
+    - [Orasi](#orasi)
+      - [Naskah orasi (rancangan)](#naskah-orasi-rancangan)
+        - [PR](#pr)
+
+
 Kelompok 7
 Pembimbing : Meta Saputra
 
@@ -61,6 +70,7 @@ Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkw
 + Mic
 + Dan sebagainya
 
+<br><br><br>
 ## Isi
 ### Wawancara
 
@@ -78,31 +88,6 @@ Orasi tidak on screen (dokumenter)
 + Diiringi lagu daerah
 
 #### Naskah orasi (rancangan)
-
-<ul>
-  <li>s</li>
-  <li>s</li>
-  <li>s</li>
-  <li>s</li>
-</ul>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  
-</ul>
-<ul>
-  
-</ul>
-<ul>
-  
-</ul>
-<ul>
-  
-</ul>
-
-
 
 ```
 Negara Kesatuan republik Indonesia
@@ -144,7 +129,7 @@ Karena kita adalah Indonesia
 
 **Bersatu kita teguh, bercerai kita runtuh** => bersama sama
 
-
+<br><br><br>
 
 ##### PR
 
@@ -159,6 +144,7 @@ Karena kita adalah Indonesia
 
 
 
+<br><br><br>
 
 <div align="center">
     <img src="img/logo-sekolah-penggerak.jpeg">
