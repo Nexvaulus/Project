@@ -14,6 +14,7 @@ Kelompok 7
 Pembimbing : Meta Saputra
 
 Anggota :
+```
     1. Muhammad Fikri
     2. Adine Rahma julia
     3. Adrien Rafarrel Nararya Wardhana
@@ -23,11 +24,13 @@ Anggota :
     7. Maulana Azka Masykur
     8. Pradavi Syafira
     9. Rafa Damartya
+```
 
 > Tema : Perbedaan
 
 Gambaran Umum : Opening => Wawancara => Orasi 
 
+```
 Durasi total 5 - 15 menit
 Audio terpisah pake mic clip on
 Upload ke google drive (nanti dikasi)
@@ -35,6 +38,7 @@ Visual :
     (min)30 fps
     Rasio 9:16
     Resolusi (min) 1920x1080
+```
 
 Nanti format editnya tiap jawaban pertanyaan kita satuin dulu, baru lanjut ke pertanyaan lain, tiap ganti pertanyaan, pertanyaan dari kitanya dimasukin. Kalo suaranya kecil krn clip onnya dipegang dia, tgl kita take ulang pertanyaannya
 
@@ -51,11 +55,11 @@ Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkw
 
 ### Perlengkapan
 
-[] Kamera (hp, kamera, dan sebagainya)
-[] Tripod
-[] Ringlight (jika ada)
-[] Mic
-[] Dan sebagainya
++ Kamera (hp, kamera, dan sebagainya)
++ Tripod
++ Ringlight (jika ada)
++ Mic
++ Dan sebagainya
 
 ## Isi
 ### Wawancara
@@ -75,6 +79,7 @@ Orasi tidak on screen (dokumenter)
 
 #### Naskah orasi (rancangan)
 
+```
 Negara Kesatuan republik Indonesia
 Negara yang dilewati garis khatulistiwa
 Negara kepulauan dengan laut yang mempersatukan
@@ -110,8 +115,9 @@ Pupuklah rasa solidaritas
 Tanamkan rasa kebersamaan
 Syukuri setiap perbedaan
 Karena kita adalah Indonesia
+```
 
-*Bersatu kita teguh, bercerai kita runtuh* => bersama sama
+**Bersatu kita teguh, bercerai kita runtuh** => bersama sama
 
 
 
