@@ -10,14 +10,39 @@
   </p>
 </div>
 
-- [Project](#project)
+<!-- this is table of content -->
+<details>
+  <summary>Daftar Isi</summary>
+  <ol>
+    <li>
+      <a href="#project">Project</a>
+      <ul>
+        <li><a href="#perlengkapan">Perlengkapan</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#isi">Isi</a>
+      <ul>
+        <li><a href="#wawancara">Wawancara</a></li>
+        <li><a href="#orasi">Orasi</a></li>
+      </ul> 
+    </li>  
+    <li>
+      <a href="#pr">PR</a>
+    </li>
+  </ol>
+</details>
+
+<!-- <details> -->
+<!-- - [Project](#project)
     - [Perlengkapan](#perlengkapan)
   - [Isi](#isi)
     - [Wawancara](#wawancara)
     - [Orasi](#orasi)
       - [Naskah orasi (rancangan)](#naskah-orasi-rancangan)
-        - [PR](#pr)
+  - [PR](#pr) -->
 
+<!-- </details> -->
 
 Kelompok 7
 Pembimbing : Meta Saputra
@@ -38,6 +63,11 @@ Anggota :
 > Tema : Perbedaan
 
 Gambaran Umum : Opening => Wawancara => Orasi 
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/wawancara-yellow?style=for-the-badge" alt="badge-isi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/orasi-pink?style=for-the-badge" alt="badge-isi"></a>
+</p>
 
 ```
 Durasi total 5 - 15 menit
@@ -131,7 +161,7 @@ Karena kita adalah Indonesia
 
 <br><br><br>
 
-##### PR
+## PR
 
 1. Target wawancara 
    1. Berapa orang
