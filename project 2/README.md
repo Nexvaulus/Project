@@ -31,7 +31,7 @@
       </ul> 
     </li>  
     <li>
-      <a href="#pr">PR</a>
+      <a href="#credit">Credit</a>
     </li>
   </ol>
 </details>
@@ -88,6 +88,7 @@ Visual :
 <br>
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
 ## Isi
 
 ### Wawancara
@@ -99,6 +100,7 @@ Visual :
 + Pesan untuk generasi muda : 
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
 ### Orasi 
 
 Orasi tidak on screen (dokumenter)
@@ -154,46 +156,49 @@ Karena kita adalah Indonesia
 
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
-### Teknis
+## Teknis
+
+### Gambaran Kasar
 
 ```
-Nanti format editnya tiap jawaban pertanyaan kita satuin dulu, baru lanjut ke pertanyaan lain, tiap ganti pertanyaan, pertanyaan 
-dari kitanya dimasukin. Kalo suaranya kecil krn clip onnya dipegang dia, tgl kita take ulang pertanyaannya
+Format edit tiap jawaban disatuin dulu, baru lanjut ke pertanyaan lain. Masukin pertanyaan tiap ganti pertanyaan. 
+Take ulang semisal suara dari clip on nya kecil.
 
-Kalo resolusi atau fps nya ada yg lebih tinggi nanti tgl di compress biar sama, kalo masalah lighting sebisa mungkin diatur 
-pas nge record, kasian kalo dibebanin ke editor
+Kalo resolusi atau frame per second (fps) ada yang lebih tinggi nanti bisa dikompress biar sama. Untuk Lightning 
+diusahakan waktu shooting (color grading || lightning sebisa mungkin jangan dibebanin ke editor).
 
-Abis mereka bacain orasi, langsung kita samber make orasi dari kitanya, tapi karena kitanya ga onscreen, 
-jadi kita mesti ngumpulin footage lain, bisa video mereka yg di slowmo, atau ngambil dari google foto2 org make baju daerah.
-Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkwk
+Setelah wawancara transisi ke orasi dari kita. Karena kita nya ga onscreen, jadi kita harus pake footage lain. 
+Bisa video dokumentasi atau video keberagaman di Indonesia. Selama orasi bgm lagu pake yang agak dramatis.
+```
 
-Intro => Putih, logo avi, lim, sekolah penggerak
+### Gambaran bersih
+
+```
+Intro => Putih, Logo Avicena, Leader In me, dan Sekolah Penggerak
 
 Narasi Opening
-Audio : Narasi awal buat basa basi sblm lanjut ke wawancara, misal, "Indonesia adalah negara..., 
-Keberagaman merupakan hal yang shrsnya kita... Maka, kami memutuskan untuk mewawancarai... Agar dapat mengenal lebih dalam... 
-Dimulai dari lingkungan sekolah..."
-Visual : Footage sekolah, footage pas kita lagi jalan, / masyarakat sekitar
+Audio : Narasi awal buat jembatan sebelum lanjut ke wawancara, misal, "Indonesia adalah negara..., 
+Keberagaman merupakan hal yang seharusnya kita..., Maka, kami memutuskan untuk mewawancarai..., 
+Agar dapat mengenal lebih dalam..., Dimulai dari lingkungan sekolah..."
+Visual : Footage sekolah, footage pas kita lagi jalan / dokumentasi / masyarakat sekitar
 BGM : https://www.youtube.com/watch?v=DFEUckKgjXU (Free Backsound Gamelan)
 
 Wawancara
+Vid : Sebisa mungkin tiap pertanyaannya cukup 1 diawal (biar ga tiap orang pertanyaannya diulang")
+Urutannya nama, asal, pesan, bahasa daerah. Bahasa daerah pake subtitle (arti + b daerahnya)
 BGM : https://youtu.be/aZFECPabyvg (Beautiful Indonesia)
-Vid : 
-Kalo bisa tiap pertanyaan, pertanyaannya cukup 1 diawal (biar ga tiap org pertnya diulang")
-Urutannya nama, asal, pesan, b daerah
-Bahasa daerah pake subtitle (arti + b daerahnya)
 
-Bridging
-Layar ngegelap, musik fadeout, gelap total kurleb 2 detik (seakan" mau udahan), pas gelap mulai nyala BGM Orasinya
+Bridging Wawancara => Orasi 
+Layar gelap, musik fadeout, gelap total kurleb 2 detik (seakan-akan mau selesai), pas gelap mulai nyala BGM Orasinya
 
 Orasi
 Orasinya sendiri (ada versi yg udah di cut kalo mau ngasi jarak)
+Vid : Vid / foto "keberagaman" yang udah kita ambil dari youtube + google. Pas "bersatu kita teguh bercerai kita runtuh" 
+sebisa mungkin dipasin sama suara BGM biar enak nge cutnya
 BGM : https://www.youtube.com/watch?v=4dUrCTzKi7s (Framelens Audiovisual)
-Vid : Vid / foto "keragaman" yg uda kita ambil dari yt + google
-Pas "brst kt tgh brcrai kt rnth" sebisa mungkin dipasin sama suara BS biar enak nge cutnya
 
 Credit / Penutup
-Layar ngegelap sampe item, make BS intro lagi, kasi nama anggota + pembina, sumber vid / foto yg ngambil
+Layar gelap sampe item, make BGM intro lagi, kasi nama anggota + pembina, sumber vid / foto yg ngambil
 ```
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
@@ -229,7 +234,6 @@ Framelens Audiovisual[^3]
 
 Pemandangan Alam Indonesia[^4]
 
-<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 [^1]: <a href="https://www.youtube.com/watch?v=DFEUckKgjXU">Free Backsound Gamelan</a>
 [^2]: <a href="https://youtu.be/aZFECPabyvg">Beautiful Indonesia</a>
