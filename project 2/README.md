@@ -68,15 +68,6 @@ Visual :
     Resolusi (min) 1920x1080
 ```
 
-Nanti format editnya tiap jawaban pertanyaan kita satuin dulu, baru lanjut ke pertanyaan lain, tiap ganti pertanyaan, pertanyaan dari kitanya dimasukin. Kalo suaranya kecil krn clip onnya dipegang dia, tgl kita take ulang pertanyaannya
-
-Kalo resolusi atau fps nya ada yg lebih tinggi nanti tgl di compress biar sama, kalo masalah lighting sebisa mungkin diatur pas nge record, kasian kalo dibebanin ke editor
-
-Abis mereka bacain orasi, langsung kita samber make orasi dari kitanya, tapi karena kitanya ga onscreen, jadi kita mesti ngumpulin footage lain, bisa video mereka yg di slowmo, atau ngambil dari google foto2 org make baju daerah.
-Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkwk
-
-
-
 1. Opening Projek => Bisa perkenalan diri atau berisi dokumenter
 
 2. Isi Video Projek => Wawancara dan Orasi
@@ -152,49 +143,60 @@ Karena kita adalah Indonesia
 
 <br>
 
-## PR
 
-1. Target wawancara 
-   1. Berapa orang
-   2. Siapa aja
-2. Bagi bagi kalimat orasi
-3. Editing
-4. Cari backsound buat scene orasi
-   1. Backsound pas opening
-   2. Backsound pas orasi
+### Teknis
 
+```
+Nanti format editnya tiap jawaban pertanyaan kita satuin dulu, baru lanjut ke pertanyaan lain, tiap ganti pertanyaan, pertanyaan dari kitanya dimasukin. Kalo suaranya kecil krn clip onnya dipegang dia, tgl kita take ulang pertanyaannya
 
-Intro
-Putih, logo avi, lim, sekolah penggerak
+Kalo resolusi atau fps nya ada yg lebih tinggi nanti tgl di compress biar sama, kalo masalah lighting sebisa mungkin diatur pas nge record, kasian kalo dibebanin ke editor
+
+Abis mereka bacain orasi, langsung kita samber make orasi dari kitanya, tapi karena kitanya ga onscreen, jadi kita mesti ngumpulin footage lain, bisa video mereka yg di slowmo, atau ngambil dari google foto2 org make baju daerah.
+Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkwk
+
+Intro => Putih, logo avi, lim, sekolah penggerak
 
 Narasi Opening
 Audio : Narasi awal buat basa basi sblm lanjut ke wawancara, misal, "Indonesia adalah negara..., Keberagaman merupakan hal yang shrsnya kita... Maka, kami memutuskan untuk mewawancarai... Agar dapat mengenal lebih dalam... Dimulai dari lingkungan sekolah..."
-Vid : Footage sekolah, footage pas kita lagi jalan, / masyarakat sekitar
-BS : https://www.youtube.com/watch?v=DFEUckKgjXU (Free Backsound Gamelan)
+Visual : Footage sekolah, footage pas kita lagi jalan, / masyarakat sekitar
+BGM : https://www.youtube.com/watch?v=DFEUckKgjXU (Free Backsound Gamelan)
 
 Wawancara
-BS : https://youtu.be/aZFECPabyvg (Beautiful Indonesia)
+BGM : https://youtu.be/aZFECPabyvg (Beautiful Indonesia)
 Vid : 
 Kalo bisa tiap pertanyaan, pertanyaannya cukup 1 diawal (biar ga tiap org pertnya diulang")
 Urutannya nama, asal, pesan, b daerah
 Bahasa daerah pake subtitle (arti + b daerahnya)
 
 Bridging
-Layar ngegelap, musik fadeout, gelap total kurleb 2 detik (seakan" mau udahan), pas gelap mulai nyala BS Orasinya
+Layar ngegelap, musik fadeout, gelap total kurleb 2 detik (seakan" mau udahan), pas gelap mulai nyala BGM Orasinya
 
 Orasi
 Orasinya sendiri (ada versi yg udah di cut kalo mau ngasi jarak)
-BS : https://www.youtube.com/watch?v=4dUrCTzKi7s (Framelens Audiovisual)
+BGM : https://www.youtube.com/watch?v=4dUrCTzKi7s (Framelens Audiovisual)
 Vid : Vid / foto "keragaman" yg uda kita ambil dari yt + google
 Pas "brst kt tgh brcrai kt rnth" sebisa mungkin dipasin sama suara BS biar enak nge cutnya
 
 Credit / Penutup
 Layar ngegelap sampe item, make BS intro lagi, kasi nama anggota + pembina, sumber vid / foto yg ngambil
+```
 
+
+## PR
+
+1. Target wawancara [✔️]
+   1. Berapa orang => 3 orang
+   2. Siapa aja => Pak Rizal, Pak Iwan, Pak Bintana
+2. Bagi bagi kalimat orasi [✔️]
+3. Editing []
+4. Cari backsound buat scene orasi []
+   1. Backsound pas opening
+   2. backsound pas wawancara
+   3. Backsound pas orasi
 
 <br><br><br>
 
 <div align="center">
-    <img src=".../../../thumbnail/logo-sekolah-penggerak.jpeg">
-    <img src=".../../../thumbnail/leader-in-me.png">
+    <p><img src=".../../../thumbnail/leader-in-me.png"></p>
+    <p><img src=".../../../thumbnail/logo-sekolah-penggerak.jpeg"></p>
 </div>
