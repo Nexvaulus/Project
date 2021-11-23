@@ -1,4 +1,7 @@
+<div id="top"></div>
+
 # Project
+
 
 <div align="center">
   <p>
@@ -72,6 +75,8 @@ Visual :
 
 2. Isi Video Projek => Wawancara dan Orasi
 
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
 ### Perlengkapan
 
 + Kamera (hp, kamera, dan sebagainya)
@@ -82,6 +87,7 @@ Visual :
 
 <br>
 
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 ## Isi
 
 ### Wawancara
@@ -92,12 +98,15 @@ Visual :
 + Pesan, harapan, kesan untuk Indonesia (dalam bahasa daerah) => (subtitle)
 + Pesan untuk generasi muda : 
 
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 ### Orasi 
 
 Orasi tidak on screen (dokumenter)
 
 + Video sektiar 2-3 menit
 + Diiringi lagu daerah
+
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 #### Naskah orasi (rancangan)
 
@@ -143,6 +152,7 @@ Karena kita adalah Indonesia
 
 <br>
 
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ### Teknis
 
@@ -185,7 +195,7 @@ Pas "brst kt tgh brcrai kt rnth" sebisa mungkin dipasin sama suara BS biar enak 
 Credit / Penutup
 Layar ngegelap sampe item, make BS intro lagi, kasi nama anggota + pembina, sumber vid / foto yg ngambil
 ```
-
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
 ## PR
 
@@ -199,9 +209,29 @@ Layar ngegelap sampe item, make BS intro lagi, kasi nama anggota + pembina, sumb
    2. backsound pas wawancara
    3. Backsound pas orasi
 
-<br><br><br>
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
+<br>
 
 <div align="center">
     <p><img src=".../../../thumbnail/leader-in-me.png"></p>
     <p><img src=".../../../thumbnail/logo-sekolah-penggerak.jpeg"></p>
 </div>
+
+
+## Credit
+
+Free Backsound Gamelan[^1] 
+
+Beautiful Indonesia[^2]
+
+Framelens Audiovisual[^3]
+
+Pemandangan Alam Indonesia[^4]
+
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
+[^1]: <a href="https://www.youtube.com/watch?v=DFEUckKgjXU">Free Backsound Gamelan</a>
+[^2]: <a href="https://youtu.be/aZFECPabyvg">Beautiful Indonesia</a>
+[^3]: <a href="https://www.youtube.com/watch?v=4dUrCTzKi7s">Framelens Audiovisual</a>
+[^4]: <a href="https://youtu.be/dbkefdyIce0">Pemandangan Alam Indonesia</a>
