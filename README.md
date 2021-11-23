@@ -1,2 +1,2 @@
 # Project
-Repo ini dibuat untuk menyimpan materi project pancasila
+Repo ini dibuat untuk menyimpan dokumentasi project pancasila
