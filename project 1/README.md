@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center">
   <p>
-    <a href="#"><img src=".../thumbnail/logo-avicena.jpeg" alt="Logo Avicena"></a>
+    <a href="#"><img src=".../../../thumbnail/logo-avicena.jpeg" alt="Logo Avicena"></a>
   </p>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/project-pertama-lime?style=for-the-badge" alt="badge-project-pertama"></a>
@@ -230,8 +230,8 @@ Gaya hidup berkelanjutan sangat penting dilakukan demi terjaganya bumi ini, karn
 <p align="right">(<a href="#top">kembali ke atas</a>)</p>
 
   <p align="center">
-    <img src=".../thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
-    <img src=".../../../thumbnail/leader-in-me.png">
+    <img src=".../../../thumbnail/leader-in-me.png" alt="Logo Leader in Me">
+    <img src=".../../../thumbnail/logo-sekolah-penggerak.jpeg" alt="Logo Sekolah Penggerak">
   </p>
 
 ---

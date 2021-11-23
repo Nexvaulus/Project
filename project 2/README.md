@@ -9,7 +9,7 @@
   </p>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/project-kedua-lime?style=for-the-badge" alt="badge-project-pertama"></a>
-    <a href="#"><img src="https://img.shields.io/badge/bhineka_tunggal_ika-lightgrey?style=for-the-badge" alt="badge-tema"></a>
+    <a href="#"><img src="https://img.shields.io/badge/kebhinekaan_di_Masyarakat-lightgrey?style=for-the-badge" alt="badge-tema"></a>
   </p>
 </div>
 
@@ -58,7 +58,8 @@ Gambaran Umum : Opening => Wawancara => Orasi
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/wawancara-yellow?style=for-the-badge" alt="badge-isi"></a>
-  <a href="#"><img src="https://img.shields.io/badge/orasi-pink?style=for-the-badge" alt="badge-isi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/orasi-blue?style=for-the-badge" alt="badge-isi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/narasi-brown?style=for-the-badge" alt="badge-isi"></a>
 </p>
 
 ```
