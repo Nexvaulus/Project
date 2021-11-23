@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="#"><img src="img/logo-avicena.jpeg" alt="Logo Avicena"></a>
+    <a href="#"><img src=".../../../thumbnail/logo-avicena.jpeg" alt="Logo Avicena"></a>
   </p>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/project-kedua-lime?style=for-the-badge" alt="badge-project-pertama"></a>
@@ -32,17 +32,6 @@
     </li>
   </ol>
 </details>
-
-<!-- <details> -->
-<!-- - [Project](#project)
-    - [Perlengkapan](#perlengkapan)
-  - [Isi](#isi)
-    - [Wawancara](#wawancara)
-    - [Orasi](#orasi)
-      - [Naskah orasi (rancangan)](#naskah-orasi-rancangan)
-  - [PR](#pr) -->
-
-<!-- </details> -->
 
 Kelompok 7
 Pembimbing : Meta Saputra
@@ -175,10 +164,37 @@ Karena kita adalah Indonesia
    2. Backsound pas orasi
 
 
+Intro
+Putih, logo avi, lim, sekolah penggerak
+
+Narasi Opening
+Audio : Narasi awal buat basa basi sblm lanjut ke wawancara, misal, "Indonesia adalah negara..., Keberagaman merupakan hal yang shrsnya kita... Maka, kami memutuskan untuk mewawancarai... Agar dapat mengenal lebih dalam... Dimulai dari lingkungan sekolah..."
+Vid : Footage sekolah, footage pas kita lagi jalan, / masyarakat sekitar
+BS : https://www.youtube.com/watch?v=DFEUckKgjXU (Free Backsound Gamelan)
+
+Wawancara
+BS : https://youtu.be/aZFECPabyvg (Beautiful Indonesia)
+Vid : 
+Kalo bisa tiap pertanyaan, pertanyaannya cukup 1 diawal (biar ga tiap org pertnya diulang")
+Urutannya nama, asal, pesan, b daerah
+Bahasa daerah pake subtitle (arti + b daerahnya)
+
+Bridging
+Layar ngegelap, musik fadeout, gelap total kurleb 2 detik (seakan" mau udahan), pas gelap mulai nyala BS Orasinya
+
+Orasi
+Orasinya sendiri (ada versi yg udah di cut kalo mau ngasi jarak)
+BS : https://www.youtube.com/watch?v=4dUrCTzKi7s (Framelens Audiovisual)
+Vid : Vid / foto "keragaman" yg uda kita ambil dari yt + google
+Pas "brst kt tgh brcrai kt rnth" sebisa mungkin dipasin sama suara BS biar enak nge cutnya
+
+Credit / Penutup
+Layar ngegelap sampe item, make BS intro lagi, kasi nama anggota + pembina, sumber vid / foto yg ngambil
+
 
 <br><br><br>
 
 <div align="center">
-    <img src="img/logo-sekolah-penggerak.jpeg">
+    <img src=".../../../thumbnail/logo-sekolah-penggerak.jpeg">
+    <img src=".../../../thumbnail/leader-in-me.png">
 </div>
-
