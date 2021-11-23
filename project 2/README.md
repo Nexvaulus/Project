@@ -147,17 +147,22 @@ Karena kita adalah Indonesia
 ### Teknis
 
 ```
-Nanti format editnya tiap jawaban pertanyaan kita satuin dulu, baru lanjut ke pertanyaan lain, tiap ganti pertanyaan, pertanyaan dari kitanya dimasukin. Kalo suaranya kecil krn clip onnya dipegang dia, tgl kita take ulang pertanyaannya
+Nanti format editnya tiap jawaban pertanyaan kita satuin dulu, baru lanjut ke pertanyaan lain, tiap ganti pertanyaan, pertanyaan 
+dari kitanya dimasukin. Kalo suaranya kecil krn clip onnya dipegang dia, tgl kita take ulang pertanyaannya
 
-Kalo resolusi atau fps nya ada yg lebih tinggi nanti tgl di compress biar sama, kalo masalah lighting sebisa mungkin diatur pas nge record, kasian kalo dibebanin ke editor
+Kalo resolusi atau fps nya ada yg lebih tinggi nanti tgl di compress biar sama, kalo masalah lighting sebisa mungkin diatur 
+pas nge record, kasian kalo dibebanin ke editor
 
-Abis mereka bacain orasi, langsung kita samber make orasi dari kitanya, tapi karena kitanya ga onscreen, jadi kita mesti ngumpulin footage lain, bisa video mereka yg di slowmo, atau ngambil dari google foto2 org make baju daerah.
+Abis mereka bacain orasi, langsung kita samber make orasi dari kitanya, tapi karena kitanya ga onscreen, 
+jadi kita mesti ngumpulin footage lain, bisa video mereka yg di slowmo, atau ngambil dari google foto2 org make baju daerah.
 Nah, selama orasi backsoun lagu wajibnya dikencengin biar tambah dramatis, wkwkwk
 
 Intro => Putih, logo avi, lim, sekolah penggerak
 
 Narasi Opening
-Audio : Narasi awal buat basa basi sblm lanjut ke wawancara, misal, "Indonesia adalah negara..., Keberagaman merupakan hal yang shrsnya kita... Maka, kami memutuskan untuk mewawancarai... Agar dapat mengenal lebih dalam... Dimulai dari lingkungan sekolah..."
+Audio : Narasi awal buat basa basi sblm lanjut ke wawancara, misal, "Indonesia adalah negara..., 
+Keberagaman merupakan hal yang shrsnya kita... Maka, kami memutuskan untuk mewawancarai... Agar dapat mengenal lebih dalam... 
+Dimulai dari lingkungan sekolah..."
 Visual : Footage sekolah, footage pas kita lagi jalan, / masyarakat sekitar
 BGM : https://www.youtube.com/watch?v=DFEUckKgjXU (Free Backsound Gamelan)
 
