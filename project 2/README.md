@@ -196,5 +196,5 @@ Layar ngegelap sampe item, make BS intro lagi, kasi nama anggota + pembina, sumb
 
 <div align="center">
     <img src=".../../../thumbnail/logo-sekolah-penggerak.jpeg">
-    <img src=".../../../thumbnail/leader-in-me.png">
+    <img src=".../../../thumbnail/leader-in-me.jpeg">
 </div>
